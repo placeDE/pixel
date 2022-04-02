@@ -28,3 +28,10 @@ file = "images/maus.png"
 startx = 58
 starty = 832
 priority = 2
+
+[[structure]]
+name = "adler"
+file = "images/adler.png"
+startx = 254
+starty = 830
+priority = 2
