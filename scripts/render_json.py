@@ -45,6 +45,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     img = Image.new("RGBA", (WIDTH, HEIGHT), "#00000000")
+    img_overlay = Image.new("RGBA", (WIDTH * 3, HEIGHT * 3), "#00000000")
 
     for file in args.files:
         with open(file) as f:
@@ -62,4 +63,6 @@ if __name__ == "__main__":
                 else:
                     color = colors[color_index]
                 img.putpixel((x, y), color)
+                img_overlay.putpixel((x * 3 + 1, y * 3 + 1), color)
     img.save("output.png")
+    img_overlay.save("overlay.png")
