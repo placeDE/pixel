@@ -52,3 +52,10 @@ file = "images/eu-taube.png"
 startx = 388
 starty = 833
 priority = 2
+
+[[structure]]
+name = "autobahn"
+file = "images/autobahn.png"
+startx = 539
+starty = 838
+priority = 2
