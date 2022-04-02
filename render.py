@@ -41,11 +41,13 @@ if __name__ == "__main__":
     for file in args.files:
         with open(file) as f:
             data = json.loads(f.read())
-        for part in data:
-            name = part["name"]
+        for name, part in data["structures"].items():
             print(f"rendering {name}")
-            pixels = part["pixel"]
-            for x, y, color_index in pixels:
+            pixels = part["pixels"]
+            for pixel in pixels:
+                x = pixel["x"]
+                y = pixel["y"]
+                color_index = pixel["color"]
                 if type(color_index) is str:
                     color = hex_to_col(color_index)
                     print(f"converted {color_index} to {color}")

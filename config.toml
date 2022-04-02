@@ -1,0 +1,13 @@
+[[structure]]
+name = "maus"
+file = "maus.png"
+startx = 58
+starty = 832
+priority = 1
+
+[[structure]]
+name = "maus2"
+file = "maus.png"
+startx = 258
+starty = 832
+priority = 1
