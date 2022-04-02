@@ -38,12 +38,12 @@ startx = 169
 starty = 830
 priority = 2
 
-[[structure]]
-name = "saeule"
-file = "images/saeule.png"
-startx = 431
-starty = 829
-priority = 2
+# [[structure]]
+# name = "saeule"
+# file = "images/saeule.png"
+# startx = 431
+# starty = 829
+# priority = 2
 
 [[structure]]
 name = "sprich_deutsch_schriftzug"
