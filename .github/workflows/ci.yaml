@@ -1,10 +1,10 @@
-name: Run Script
+name: Build json and pixelart
 
 on:
+  workflow_dispatch:
   pull_request:
     types:
       - closed
-  workflow_dispatch:
 
 jobs:
   if_merged:
