@@ -1,18 +1,1 @@
-{
-    "structures": {
-        "test": {
-            "priority": 1,
-            "pixels": [
-                {
-                    "x": 184,
-                    "y": 839,
-                    "color": 29,
-                    "priority": 1
-                }
-            ]
-        }
-    },
-    "priorities": {
-        "1": 1
-    }
-}
+{"structures": {"test1": {"priority": 1, "pixels": [{"x": 110, "y": 830, "color": 27, "priority": 1}, {"x": 110, "y": 831, "color": 31, "priority": 1}, {"x": 111, "y": 830, "color": 31, "priority": 1}, {"x": 111, "y": 831, "color": 27, "priority": 1}]}, "test2": {"priority": 2, "pixels": [{"x": 110, "y": 832, "color": 27, "priority": 2}, {"x": 110, "y": 833, "color": 31, "priority": 2}, {"x": 111, "y": 832, "color": 31, "priority": 2}, {"x": 111, "y": 833, "color": 27, "priority": 2}]}}, "priorities": {"1": 1, "2": 5}}
