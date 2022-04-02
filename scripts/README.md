@@ -27,7 +27,9 @@ file = "maus.png"
 startx = 58
 starty = 832
 priority = 1
-``` 
+```
+
+If you want to filter certain colors, e.g. as a mask, you can add them to the `ignore_colors`. These are matched to the exact RGB values in the image, if a contains an ignored color it is skipped.
 
 (Optional) If you want to render the pixel.json into an image to confirm your configuration:
 

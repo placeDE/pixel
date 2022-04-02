@@ -1,3 +1,9 @@
+ignore_colors = [
+	[255, 69, 0, 255],
+	[255, 214, 53, 255],
+	# [0, 0, 0, 255], # filter all black
+]
+
 [priorities]
 "1" = 1
 "2" = 2
