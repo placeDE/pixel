@@ -33,7 +33,7 @@ def hex_to_col(hex_str, alpha=0xff):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("files", nargs="+", type=pathlib.Path)
+    parser.add_argument("files", nargs="*", type=pathlib.Path, default=["pixel.json"])
     args = parser.parse_args()
 
     img = Image.new("RGBA", (WIDTH, HEIGHT), "#00000000")

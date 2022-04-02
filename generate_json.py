@@ -65,7 +65,7 @@ def create_structure(image, startx, starty, priority):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", type=pathlib.Path, default="config.toml")
-    parser.add_argument("output")
+    parser.add_argument("output", nargs="?", default="pixel.json")
     args = parser.parse_args()
 
     config = toml.load(args.config)
