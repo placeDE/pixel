@@ -80,3 +80,10 @@ file = "images/no_internet.png"
 startx = 323
 starty = 844
 priority = 2
+
+[[structure]]
+name = "blume"
+file = "images/blume.png"
+startx = 503
+starty = 836
+priority = 2
