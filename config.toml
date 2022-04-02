@@ -119,6 +119,6 @@ priority = 2
 [[structure]]
 name = "wanderer"
 file = "images/wanderer.png"
-startx = 434
-starty = 844
+startx = 1978
+starty = 830
 priority = 2
