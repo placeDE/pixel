@@ -119,13 +119,13 @@ priority = 2
 [[structure]]
 name = "portalOrange"
 file = "images/portal_orange.png"
-startx = 756
-starty = 826
+startx = 758
+starty = 828
 priority = 2
 
 [[structure]]
 name = "portalBlau"
 file = "images/portal_blau.png"
-startx = 1051
-starty = 825
+startx = 1054
+starty = 826
 priority = 2
