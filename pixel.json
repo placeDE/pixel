@@ -7,6 +7,85 @@
 				"y": 839,
 				"color": 29,
 				"priority": 1
+			},{
+				"x": 184,
+				"y": 840,
+				"color": 29,
+				"priority": 2
+			},{
+				"x": 184,
+				"y": 841,
+				"color": 29,
+				"priority": 1
+			},{
+				"x": 184,
+				"y": 842,
+				"color": 29,
+				"priority": 2
+			},{
+				"x": 184,
+				"y": 839,
+				"color": 29,
+				"priority": 1
+			},{
+				"x": 184,
+				"y": 840,
+				"color": 29,
+				"priority": 2
+			},{
+				"x": 184,
+				"y": 841,
+				"color": 29,
+				"priority": 1
+			},{
+				"x": 184,
+				"y": 842,
+				"color": 29,
+				"priority": 2
+			}]
+		},
+		"eu-flag2": {
+			"priority": 1,
+			"pixels": [{
+				"x": 284,
+				"y": 839,
+				"color": 29,
+				"priority": 1
+			},{
+				"x": 284,
+				"y": 840,
+				"color": 29,
+				"priority": 2
+			},{
+				"x": 284,
+				"y": 841,
+				"color": 29,
+				"priority": 1
+			},{
+				"x": 284,
+				"y": 842,
+				"color": 29,
+				"priority": 2
+			},{
+				"x": 284,
+				"y": 839,
+				"color": 29,
+				"priority": 1
+			},{
+				"x": 284,
+				"y": 840,
+				"color": 29,
+				"priority": 2
+			},{
+				"x": 284,
+				"y": 841,
+				"color": 29,
+				"priority": 1
+			},{
+				"x": 284,
+				"y": 842,
+				"color": 29,
+				"priority": 2
 			}]
 		}
 	},
