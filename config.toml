@@ -46,6 +46,13 @@ starty = 829
 priority = 2
 
 [[structure]]
+name = "sprich_deutsch_schriftzug"
+file = "images/sprich_deutsch_schriftzug.png"
+startx = 113
+starty = 844
+priority = 2
+
+[[structure]]
 name = "eu_flagge"
 file = "images/eu.png"
 startx = 388
