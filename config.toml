@@ -1,23 +1,30 @@
 ignore_colors = [
-	[255, 69, 0, 255],
-	[255, 214, 53, 255],
+	[0, 0, 0, 0],
 	# [0, 0, 0, 255], # filter all black
 ]
 
 [priorities]
 "1" = 1
-"2" = 2
+"2" = 5
+"3" = 10
+
+[[structure]]
+name = "rplacede_schriftzug"
+file = "images/rplacede_schriftzug.png"
+startx = 0
+starty = 856
+priority = 3
+
+[[structure]]
+name = "flagge"
+file = "images/flagge.png"
+startx = 0
+starty = 830
+priority = 1
 
 [[structure]]
 name = "maus"
 file = "images/maus.png"
 startx = 58
 starty = 832
-priority = 1
-
-[[structure]]
-name = "maus2"
-file = "images/maus.png"
-startx = 258
-starty = 832
-priority = 1
+priority = 2
