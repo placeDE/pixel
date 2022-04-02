@@ -1,0 +1,47 @@
+name: Build json and pixelart
+
+on:
+  workflow_dispatch:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  if_merged:
+    #if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:    
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+      
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v3
+        with:
+          path: "scripts/requirements.txt"
+        
+      - name: Generate json
+        run: python scripts/generate_json.py
+        shell: sh
+
+      - name: Generate Pixelart
+        run: python scripts/render_json.py
+        shell: sh
+
+      - name: Commit files
+        run: |
+          git config --local user.email "somemail@domain.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Add changes" -a
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+
+          

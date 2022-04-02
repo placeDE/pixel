@@ -122,3 +122,17 @@ file = "images/duden.png"
 startx = 1700
 starty = 831
 priority = 3
+
+[[structure]]
+name = "wanderer"
+file = "images/wanderer.png"
+startx = 1978
+starty = 830
+priority = 2
+
+[[structure]]
+name = "amogus"
+file = "images/amogus.png"
+startx = 1780
+starty = 781
+priority = 2
