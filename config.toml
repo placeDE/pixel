@@ -130,12 +130,12 @@ startx = 1054
 starty = 826
 priority = 2
 
-[[structure]]
-name = "duden"
-file = "images/duden.png"
-startx = 1700
-starty = 831
-priority = 3
+# [[structure]]
+# name = "duden"
+# file = "images/duden.png"
+# startx = 1700
+# starty = 831
+# priority = 3
 
 [[structure]]
 name = "wanderer"
