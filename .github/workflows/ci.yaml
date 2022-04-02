@@ -8,7 +8,7 @@ on:
 
 jobs:
   if_merged:
-    if: github.event.pull_request.merged == true
+    #if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:    
       - uses: actions/checkout@v2
@@ -18,6 +18,11 @@ jobs:
 
       - name: Setup python
         uses: actions/setup-python@v2
+      
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v3
+        with:
+          path: "scripts/requirements.txt"
         
       - name: Generate json
         run: python scripts/generate_json.py
@@ -34,7 +39,7 @@ jobs:
           git commit -m "Add changes" -a
       
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
