@@ -129,3 +129,10 @@ file = "images/amogus.png"
 startx = 1780
 starty = 781
 priority = 2
+
+[[structure]]
+name = "nettHier"
+file = "images/nett_hier.png"
+startx = 1527
+starty = 833
+priority = 2
