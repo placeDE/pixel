@@ -129,3 +129,10 @@ file = "images/portal_blau.png"
 startx = 1054
 starty = 826
 priority = 2
+
+[[structure]]
+name = "wanderer"
+file = "images/wanderer.png"
+startx = 1978
+starty = 830
+priority = 2
