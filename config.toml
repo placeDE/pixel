@@ -101,3 +101,10 @@ file = "images/ente.png"
 startx = 666
 starty = 850
 priority = 2
+
+[[structure]]
+name = "duden"
+file = "images/duden.png"
+startx = 1700
+starty = 831
+priority = 2
