@@ -5,14 +5,15 @@ ignore_colors = [
 
 [priorities]
 "1" = 1
-"2" = 10
+"2" = 5
+"3" = 10
 
 [[structure]]
 name = "rplacede_schriftzug"
 file = "images/rplacede_schriftzug.png"
 startx = 0
 starty = 856
-priority = 2
+priority = 3
 
 [[structure]]
 name = "flagge"
@@ -20,3 +21,10 @@ file = "images/flagge.png"
 startx = 0
 starty = 830
 priority = 1
+
+[[structure]]
+name = "maus"
+file = "images/maus.png"
+startx = 58
+starty = 832
+priority = 2
