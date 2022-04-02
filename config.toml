@@ -115,3 +115,17 @@ file = "images/tgv.png"
 startx = 434
 starty = 844
 priority = 2
+
+[[structure]]
+name = "portalOrange"
+file = "images/portal_orange.png"
+startx = 756
+starty = 826
+priority = 2
+
+[[structure]]
+name = "portalBlau"
+file = "images/portal_blau.png"
+startx = 1051
+starty = 825
+priority = 2
