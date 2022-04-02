@@ -16,11 +16,11 @@ name = "hololive_text"
 file = "images/hololive_text.png"
 startx = 240
 starty = 737
-priority = 0
+priority = 1
 
 [[structure]]
 name = "asacoco"
 file = "images/asacoco.png"
 startx = 257
 starty = 753
-priority = 1
+priority = 0
