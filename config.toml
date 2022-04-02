@@ -121,4 +121,4 @@ name = "duden"
 file = "images/duden.png"
 startx = 1700
 starty = 831
-priority = 2
+priority = 3
