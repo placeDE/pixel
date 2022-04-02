@@ -1,1 +1,17 @@
-{"test":123}
+{
+	"structures": {
+		"eu-flag": {
+			"priority": 1,
+			"pixels": [{
+				"x": 184,
+				"y": 839,
+				"color": 29,
+				"priority": 1
+			}]
+		}
+	},
+	"priorities": {
+		"1": 1,
+		"2": 2
+	}
+}
