@@ -6,6 +6,7 @@ ignore_colors = [
 version = 10
 
 [priorities]
+"0" = 0
 "1" = 1
 "2" = 5
 "3" = 10
@@ -43,4 +44,4 @@ name = "saeule"
 file = "images/saeule.png"
 startx = 431
 starty = 829
-priority = 2
+priority = 0
