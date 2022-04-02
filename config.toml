@@ -38,13 +38,13 @@ file = "images/brot.png"
 startx = 169
 starty = 830
 priority = 2
-
-[[structure]]
-name = "saeule"
-file = "images/saeule.png"
-startx = 431
-starty = 829
-priority = 0
+#
+# [[structure]]
+# name = "saeule"
+# file = "images/saeule.png"
+# startx = 431
+# starty = 829
+# priority = 0
 
 [[structure]]
 name = "eu-taube"
