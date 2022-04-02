@@ -28,7 +28,7 @@ COLOR_MAPPINGS = {
 	'#000000': 27,
 	'#898D90': 29,
 	'#D4D7D9': 30,
-	'#E9EBED': 31
+	'#FFFFFF': 31
 }
 
 def hex_to_col(hex_str, alpha=0xff):
