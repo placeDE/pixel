@@ -12,78 +12,8 @@ version = 11
 "3" = 10
 
 [[structure]]
-name = "rplacede_schriftzug"
-file = "images/rplacede_schriftzug.png"
-startx = 0
-starty = 856
+name = "logo"
+file = "images/logo.png"
+startx = 1336
+starty = 764
 priority = 3
-
-[[structure]]
-name = "maus"
-file = "images/maus.png"
-startx = 58
-starty = 832
-priority = 2
-
-[[structure]]
-name = "adler"
-file = "images/adler.png"
-startx = 254
-starty = 830
-priority = 2
-
-[[structure]]
-name = "bier_brot"
-file = "images/bier_brot.png"
-startx = 169
-starty = 830
-priority = 2
-
-# [[structure]]
-# name = "saeule"
-# file = "images/saeule.png"
-# startx = 431
-# starty = 829
-# priority = 0
-
-[[structure]]
-name = "eu-taube"
-file = "images/eu-taube.png"
-startx = 388
-starty = 833
-priority = 2
-
-[[structure]]
-name = "autobahn"
-file = "images/autobahn.png"
-startx = 539
-starty = 838
-priority = 2
-
-[[structure]]
-name = "ice"
-file = "images/ice.png"
-startx = 326
-starty = 849
-priority = 2
-
-[[structure]]
-name = "brandenburger_tor"
-file = "images/brandenburger_tor.png"
-startx = 676
-starty = 828
-priority = 2
-
-[[structure]]
-name = "no_internet"
-file = "images/no_internet.png"
-startx = 323
-starty = 844
-priority = 2
-
-[[structure]]
-name = "blume"
-file = "images/blume.png"
-startx = 503
-starty = 836
-priority = 2
