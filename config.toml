@@ -44,3 +44,10 @@ file = "images/saeule.png"
 startx = 431
 starty = 829
 priority = 2
+
+[[structure]]
+name = "sprich_deutsch_schriftzug"
+file = "images/sprich_deutsch_schriftzug.png"
+startx = 113
+starty = 844
+priority = 2
