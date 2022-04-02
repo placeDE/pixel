@@ -30,8 +30,10 @@ def hex_to_col(hex_str, alpha=0xff):
     return (conv(hex_str[1:3]), conv(hex_str[3:5]), conv(hex_str[5:7]), alpha)
 
 colors = {}
+index_colors = {}
 for hex_str, index in COLOR_MAPPINGS.items():
     colors[hex_to_col(hex_str)] = index
+    index_colors[index] = hex_to_col(hex_str)
 
 def find_closest_index(color):
     def dist(col1, col2):
@@ -45,7 +47,7 @@ def find_closest_index(color):
             closest = key
     return colors[closest]
 
-def create_structure(image, startx, starty, priority, ignore_colors):
+def create_structure(image, startx, starty, priority, background_priority, background, ignore_colors):
     pixels = []
     with Image.open(image) as img:
         for x in range(img.size[0]):
@@ -53,11 +55,12 @@ def create_structure(image, startx, starty, priority, ignore_colors):
                 color = img.getpixel((x, y))
                 if color in ignore_colors:
                     continue
+                prio = background_priority if color in background else priority
                 pixels.append({
                     "x": startx + x,
                     "y": starty + y,
                     "color": find_closest_index(color),
-                    "priority": priority,
+                    "priority": prio,
                 })
     return {
             "priority": priority,
@@ -83,7 +86,9 @@ if __name__ == "__main__":
         file = struct["file"]
         name = struct["name"]
         print(f"Adding file {file} for structure {name}")
-        data["structures"][name] = create_structure(file, struct["startx"], struct["starty"], struct["priority"], ignore_colors)
+        background = list(map(lambda x: index_colors[x], struct.get("background", [])))
+        background_priority = struct.get("background_priority", struct["priority"])
+        data["structures"][name] = create_structure(file, struct["startx"], struct["starty"], struct["priority"], background_priority, background, ignore_colors)
     
     with open(args.output, "w") as f:
         f.write(json.dumps(data, indent=4))

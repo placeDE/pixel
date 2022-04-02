@@ -52,6 +52,8 @@ file = "images/eu-taube.png"
 startx = 388
 starty = 833
 priority = 2
+background = [12]
+background_priority = 1
 
 [[structure]]
 name = "autobahn"
