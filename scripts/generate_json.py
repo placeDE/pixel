@@ -72,8 +72,10 @@ if __name__ == "__main__":
 
     config = toml.load(args.config)
     ignore_colors = list(map(tuple, config["ignore_colors"]))
+    version = config["version"]
 
     data = {
+        "version": version,
         "structures": {},
         "priorities": config["priorities"],
     }
