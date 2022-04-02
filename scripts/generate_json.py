@@ -53,22 +53,24 @@ def find_closest_index(color):
             closest = key
     return colors[closest]
 
-def create_structure(image, startx, starty, priority, ignore_colors):
+def create_structure(image, priority_mask, startx, starty, structure_priority, ignore_colors):
     pixels = []
     with Image.open(image) as img:
-        for x in range(img.size[0]):
-            for y in range(img.size[1]):
-                color = img.getpixel((x, y))
-                if color in ignore_colors:
-                    continue
-                pixels.append({
-                    "x": startx + x,
-                    "y": starty + y,
-                    "color": find_closest_index(color),
-                    "priority": priority,
-                })
+        with Image.open(priority_mask) as priority_img:
+            for x in range(img.size[0]):
+                for y in range(img.size[1]):
+                    color = img.getpixel((x, y))
+                    if color in ignore_colors:
+                        continue
+                    pixel_priority = priority_img.getpixel((x, y))[0]
+                    pixels.append({
+                        "x": startx + x,
+                        "y": starty + y,
+                        "color": find_closest_index(color),
+                        "priority": pixel_priority,
+                    })
     return {
-            "priority": priority,
+            "priority": structure_priority,
             "pixels": pixels,
             }
 
@@ -89,9 +91,10 @@ if __name__ == "__main__":
     }
     for struct in config["structure"]:
         file = struct["file"]
+        priority_file = struct["priority_file"]
         name = struct["name"]
         print(f"Adding file {file} for structure {name}")
-        data["structures"][name] = create_structure(file, struct["startx"], struct["starty"], struct["priority"], ignore_colors)
+        data["structures"][name] = create_structure(file, priority_file, struct["startx"], struct["starty"], struct["priority"], ignore_colors)
     
     with open(args.output, "w") as f:
         f.write(json.dumps(data, indent=4))
