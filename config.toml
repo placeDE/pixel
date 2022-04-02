@@ -115,3 +115,17 @@ file = "images/tgv.png"
 startx = 434
 starty = 844
 priority = 2
+
+[[structure]]
+name = "wanderer"
+file = "images/wanderer.png"
+startx = 1978
+starty = 830
+priority = 2
+
+[[structure]]
+name = "amogus"
+file = "images/amogus.png"
+startx = 1778
+starty = 1779
+priority = 2
