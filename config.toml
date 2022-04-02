@@ -1,6 +1,7 @@
 ignore_colors = [
 	[0, 0, 0, 0],
 	# [0, 0, 0, 255], # filter all black
+	[0xff, 0x00, 0xf8, 0xff]
 ]
 
 version = 11
@@ -13,7 +14,7 @@ version = 11
 
 [[structure]]
 name = "logo"
-file = "images/logo.png"
-startx = 1336
-starty = 764
+file = "images/everything.png"
+startx = 1333
+starty = 753
 priority = 3
