@@ -66,10 +66,3 @@ file = "images/ice.png"
 startx = 326
 starty = 849
 priority = 2
-
-[[structure]]
-name = "fckafd"
-file = "images/afd.png"
-startx = 296
-starty = 830
-priority = 2
