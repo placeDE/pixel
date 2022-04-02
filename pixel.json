@@ -1,8 +1,15 @@
-[
-    {
-        "name": "test",
-        "pixel": [
-            [184,839, 29]
-        ]
+{
+    "structures": {
+        "eu-flag": {
+            "priority": 1,
+            "pixels": [
+                {
+                    "x": 184,
+                    "y": 839,
+                    "color": 29,
+                    "priority": 1
+                }
+            ]
+        }
     }
-]
+}
