@@ -94,3 +94,10 @@ file = "images/sandmann.png"
 startx = 472
 starty = 831
 priority = 2
+
+[[structure]]
+name = "ente"
+file = "images/ente.png"
+startx = 666
+starty = 850
+priority = 2
