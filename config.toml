@@ -44,10 +44,3 @@ file = "images/saeule.png"
 startx = 431
 starty = 829
 priority = 2
-
-[[structure]]
-name = "bubatz"
-file = "images/bubatz.png"
-startx = 300
-starty = 832
-priority = 2
