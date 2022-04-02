@@ -6,6 +6,7 @@ ignore_colors = [
 version = 10
 
 [priorities]
+"0" = 0
 "1" = 1
 "2" = 5
 "3" = 10
@@ -44,6 +45,7 @@ priority = 2
 # startx = 431
 # starty = 829
 # priority = 2
+
 
 [[structure]]
 name = "sprich_deutsch_schriftzug"
