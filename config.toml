@@ -1,0 +1,23 @@
+ignore_colors = [
+	[255, 69, 0, 255],
+	[255, 214, 53, 255],
+	# [0, 0, 0, 255], # filter all black
+]
+
+[priorities]
+"1" = 1
+"2" = 2
+
+[[structure]]
+name = "maus"
+file = "images/maus.png"
+startx = 58
+starty = 832
+priority = 1
+
+[[structure]]
+name = "maus2"
+file = "images/maus.png"
+startx = 258
+starty = 832
+priority = 1
