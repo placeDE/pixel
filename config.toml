@@ -16,6 +16,7 @@ version = 14
 [[structure]]
 name = "rplacede_schriftzug"
 file = "images/rplacede_schriftzug.png"
+priority_file = "images/rplacede_schriftzug-priority.png"
 startx = 0
 starty = 856
 priority = 3
@@ -23,6 +24,7 @@ priority = 3
 [[structure]]
 name = "maus"
 file = "images/maus.png"
+priority_file = "images/maus-priority.png"
 startx = 58
 starty = 832
 priority = 2
@@ -30,6 +32,7 @@ priority = 2
 [[structure]]
 name = "adler"
 file = "images/adler.png"
+priority_file = "images/adler-priority.png"
 startx = 254
 starty = 830
 priority = 2
@@ -37,6 +40,7 @@ priority = 2
 [[structure]]
 name = "bier_brot"
 file = "images/bier_brot.png"
+priority_file = "images/bier_brot-priority.png"
 startx = 169
 starty = 830
 priority = 2
@@ -58,6 +62,7 @@ priority = 1
 [[structure]]
 name = "eu-taube"
 file = "images/eu-taube.png"
+priority_file = "images/eu-taube-priority.png"
 startx = 388
 starty = 833
 priority = 2
@@ -65,6 +70,7 @@ priority = 2
 [[structure]]
 name = "autobahn"
 file = "images/autobahn.png"
+priority_file = "images/autobahn-priority.png"
 startx = 539
 starty = 838
 priority = 2
@@ -72,6 +78,7 @@ priority = 2
 [[structure]]
 name = "ice"
 file = "images/ice.png"
+priority_file = "images/ice-priority.png"
 startx = 326
 starty = 849
 priority = 2
@@ -79,6 +86,7 @@ priority = 2
 [[structure]]
 name = "brandenburger_tor"
 file = "images/brandenburger_tor.png"
+priority_file = "images/brandenburger_tor-priority.png"
 startx = 676
 starty = 828
 priority = 2
@@ -86,6 +94,7 @@ priority = 2
 [[structure]]
 name = "no_internet"
 file = "images/no_internet.png"
+priority_file = "images/no_internet-priority.png"
 startx = 323
 starty = 844
 priority = 2
@@ -93,6 +102,7 @@ priority = 2
 [[structure]]
 name = "blume"
 file = "images/blume.png"
+priority_file = "images/blume-priority.png"
 startx = 503
 starty = 836
 priority = 2
