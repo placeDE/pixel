@@ -84,4 +84,4 @@ if __name__ == "__main__":
         data["structures"][name] = create_structure(file, struct["startx"], struct["starty"], struct["priority"], ignore_colors)
     
     with open(args.output, "w") as f:
-        f.write(json.dumps(data))
+        f.write(json.dumps(data, indent=4))

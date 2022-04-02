@@ -16,6 +16,13 @@ starty = 856
 priority = 3
 
 [[structure]]
+name = "ich_iel_schriftzug"
+file = "images/ich_iel_schriftzug.png"
+startx = 0
+starty = 863
+priority = 3
+
+[[structure]]
 name = "flagge"
 file = "images/flagge.png"
 startx = 0
