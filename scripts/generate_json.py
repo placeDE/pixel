@@ -72,13 +72,13 @@ if __name__ == "__main__":
 
     data = {
         "structures": {},
-        "priorities": {
-            1: 1,
-        },
+        "priorities": config["priorities"],
     }
-
     for struct in config["structure"]:
-        data["structures"][struct["name"]] = create_structure(struct["file"], struct["startx"], struct["starty"], struct["priority"])
+        file = struct["file"]
+        name = struct["name"]
+        print(f"Adding file {file} for structure {name}")
+        data["structures"][name] = create_structure(file, struct["startx"], struct["starty"], struct["priority"])
     
     with open(args.output, "w") as f:
         f.write(json.dumps(data))
