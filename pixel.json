@@ -5689,7 +5689,7 @@
                 {
                     "x": 295,
                     "y": 749,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
@@ -5701,13 +5701,13 @@
                 {
                     "x": 295,
                     "y": 751,
-                    "color": 31,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 295,
                     "y": 752,
-                    "color": 4,
+                    "color": 31,
                     "priority": 3
                 },
                 {
@@ -5791,25 +5791,25 @@
                 {
                     "x": 296,
                     "y": 749,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 296,
                     "y": 750,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 296,
                     "y": 751,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 296,
                     "y": 752,
-                    "color": 4,
+                    "color": 31,
                     "priority": 3
                 },
                 {
@@ -5893,7 +5893,7 @@
                 {
                     "x": 297,
                     "y": 749,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
@@ -5905,13 +5905,13 @@
                 {
                     "x": 297,
                     "y": 751,
-                    "color": 31,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 297,
                     "y": 752,
-                    "color": 4,
+                    "color": 31,
                     "priority": 3
                 },
                 {
@@ -6097,25 +6097,25 @@
                 {
                     "x": 299,
                     "y": 749,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 299,
                     "y": 750,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 299,
                     "y": 751,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 299,
                     "y": 752,
-                    "color": 4,
+                    "color": 31,
                     "priority": 3
                 },
                 {
@@ -6199,7 +6199,7 @@
                 {
                     "x": 300,
                     "y": 749,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
@@ -6211,13 +6211,13 @@
                 {
                     "x": 300,
                     "y": 751,
-                    "color": 31,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 300,
                     "y": 752,
-                    "color": 4,
+                    "color": 31,
                     "priority": 3
                 },
                 {
@@ -6307,13 +6307,13 @@
                 {
                     "x": 301,
                     "y": 750,
-                    "color": 4,
+                    "color": 3,
                     "priority": 3
                 },
                 {
                     "x": 301,
                     "y": 751,
-                    "color": 4,
+                    "color": 31,
                     "priority": 3
                 },
                 {
