@@ -66,3 +66,10 @@ file = "images/ice.png"
 startx = 326
 starty = 849
 priority = 2
+
+[[structure]]
+name = "brandenburger_tor"
+file = "images/brandenburger_tor.png"
+startx = 676
+starty = 828
+priority = 2
