@@ -32,13 +32,13 @@ startx = 254
 starty = 830
 priority = 2
 
-#[[structure]]
-#name = "brot"
-#file = "images/brot.png"
-#startx = 169
-#starty = 830
-#priority = 2
-#
+[[structure]]
+name = "bier_brot"
+file = "images/bier_brot.png"
+startx = 169
+starty = 830
+priority = 2
+
 # [[structure]]
 # name = "saeule"
 # file = "images/saeule.png"
