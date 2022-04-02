@@ -117,6 +117,20 @@ starty = 844
 priority = 2
 
 [[structure]]
+name = "portalOrange"
+file = "images/portal_orange.png"
+startx = 758
+starty = 828
+priority = 2
+
+[[structure]]
+name = "portalBlau"
+file = "images/portal_blau.png"
+startx = 1054
+starty = 826
+priority = 2
+
+[[structure]]
 name = "duden"
 file = "images/duden.png"
 startx = 1700
