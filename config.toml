@@ -98,6 +98,6 @@ priority = 2
 [[structure]]
 name = "ente"
 file = "images/ente.png"
-startx = 663
-starty = 849
+startx = 666
+starty = 850
 priority = 2
