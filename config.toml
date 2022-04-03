@@ -3,7 +3,7 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 11
+version = 12
 
 [[structure]]
 name = "flare"
@@ -20,14 +20,14 @@ starty = 733
 [[structure]]
 name = "niji_main"
 file = "images/Nijisanji logo.png"
-startx = 167
-starty = 721
+startx = 164
+starty = 719
 
-[[structure]]
-name = "vshojo"
-file = "images/vshojo.png"
-startx = 163
-starty = 747
+#[[structure]]
+#name = "vshojo"
+#file = "images/vshojo.png"
+#startx = 163
+#starty = 747
 
 #[[structure]]
 #name = "sanbaka + others"
