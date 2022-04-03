@@ -76,3 +76,9 @@ name = "all_fubu_stuff"
 file = "images/all_fubu_stuff.png"
 startx = 1332
 starty = 1042
+
+[[structure]]
+name = "more-vshojo"
+file = "images/more-vshojo.png"
+startx = 1333
+starty = 1172
