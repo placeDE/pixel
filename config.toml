@@ -234,6 +234,6 @@ priority = 2
 [[structure]]
 name = "einstein"
 file = "images/Einstein.png"
-startx = 1944
+startx = 1946
 starty = 830
 priority = 2
