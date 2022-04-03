@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         Hololive combo
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Spread the love
+// @author       oralekin
+// @match        https://hot-potato.reddit.com/embed*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
+// @grant        none
+// ==/UserScript==
 if (window.top !== window.self) {
 	window.addEventListener('load', () => {
 		const opacity = 1;
