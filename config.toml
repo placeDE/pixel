@@ -30,6 +30,13 @@ starty = 832
 priority = 2
 
 [[structure]]
+name = "sprich_deutsch"
+file = "images/sprich_deutsch_schriftzug.png"
+startx = 113
+starty = 831
+priority = 2
+
+[[structure]]
 name = "adler"
 file = "images/adler.png"
 priority_file = "images/adler-priority.png"
@@ -70,7 +77,6 @@ priority = 2
 [[structure]]
 name = "autobahn"
 file = "images/autobahn.png"
-priority_file = "images/autobahn-priority.png"
 startx = 539
 starty = 838
 priority = 2
@@ -120,19 +126,26 @@ startx = 666
 starty = 850
 priority = 2
 
-[[structure]]
-name = "doenermann"
-file = "images/doenermann2.png"
-priority_file = "images/doenermann2-priority.png"
-startx = 1337
-starty = 830
-priority = 2
+# [[structure]]
+# name = "doenermann"
+# file = "images/doenermann2.png"
+# priority_file = "images/doenermann2-priority.png"
+# startx = 1337
+# starty = 830
+# priority = 2
 
 [[structure]]
 name = "tgv"
 file = "images/tgv.png"
 startx = 434
 starty = 843
+priority = 2
+
+[[structure]]
+name = "TU-Berlin"
+file = "images/TU-Berlin.png"
+startx = 1392
+starty = 806
 priority = 2
 
 [[structure]]
@@ -179,10 +192,10 @@ priority = 1
 
 [[structure]]
 name = "tigerente"
-file = "images/tigerente_frosch.png"
-priority_file = "images/tigerente_frosch-priority.png"
-startx = 1430
-starty = 835
+file = "images/tigerente_frosch_ukraine.png"
+priority_file = "images/tigerente_frosch_ukraine-priority.png"
+startx = 1404
+starty = 831
 priority = 2
 
 [[structure]]
@@ -206,12 +219,12 @@ priority = 2
 #starty = 838
 #priority = 2
 
-[[structure]]
-name = "arte2"
-file = "images/arte2.png"
-startx = 1127
-starty = 830
-priority = 2
+# [[structure]]
+# name = "arte2"
+# file = "images/arte2.png"
+# startx = 1127
+# starty = 830
+# priority = 2
 
 [[structure]]
 name = "baum"
