@@ -81,7 +81,7 @@ starty = 1042
 name = "matsuribibi"
 file = "images/matsuri.png"
 startx = 1423
-starty = 1068
+starty = 1067
 
 [[structure]]
 name = "more-vshojo"
