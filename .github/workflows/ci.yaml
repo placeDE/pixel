@@ -50,7 +50,7 @@ jobs:
         run: |
           git config --local user.email "somemail@domain.com"
           git config --local user.name "github-actions[bot]"
-          git update-index --refresh
+          git update-index -q --refresh
           git diff-index --quiet HEAD -- || git commit -m "[Generate]" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
