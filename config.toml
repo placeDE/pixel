@@ -18,9 +18,9 @@ startx = 1884
 starty = 733
 
 [[structure]]
-name = "niji_main"
-file = "images/Nijisanji logo.png"
-startx = 167
+name = "niji_vshojo"
+file = "images/Nijisanji+vshojo.png"
+startx = 165
 starty = 721
 
 [[structure]]
