@@ -8,12 +8,17 @@ on:
   pull_request:
     types:
       - closed
+  push:
+    paths-ignore:
+      - 'output.png'
+      - 'pixel.json'
+      
       
 permissions:
   contents: write
   
 jobs:
-  if_merged:
+  run_generation:
     if: github.event.pull_request.merged == true && ${{ github.base_ref == 'main' }}
     runs-on: ubuntu-latest
     steps:    
