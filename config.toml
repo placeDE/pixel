@@ -11,11 +11,11 @@ file = "images/Flare.png"
 startx = 1365
 starty = 869
 
-[[structure]]
-name = "lazulight"
-file = "images/Lazulight.png"
-startx = 1884
-starty = 733
+#[[structure]]
+#name = "lazulight"
+#file = "images/Lazulight.png"
+#startx = 1884
+#starty = 733
 
 [[structure]]
 name = "niji_main"
