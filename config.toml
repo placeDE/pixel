@@ -142,6 +142,13 @@ starty = 843
 priority = 2
 
 [[structure]]
+name = "drei_fragezeichen"
+file = "images/drei_fragezeichen.png"
+startx = 435
+starty = 830
+priority = 2
+
+[[structure]]
 name = "TU-Berlin"
 file = "images/TU-Berlin.png"
 startx = 1392
