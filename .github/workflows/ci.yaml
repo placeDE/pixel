@@ -1,4 +1,4 @@
-name: Build json and pixelart
+name: Generate and push
 
 on:
   workflow_dispatch:
@@ -46,7 +46,7 @@ jobs:
         run: python scripts/render_json.py
         shell: sh
 
-      - name: Commit files if chaged
+      - name: Commit files if changed
         run: |
           git config --local user.email "somemail@domain.com"
           git config --local user.name "github-actions[bot]"
