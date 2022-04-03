@@ -341,6 +341,13 @@ startx = 1539
 starty = 837
 priority = 2
 
+[[structure]]
+name = "pokal"
+file = "images/pokal_brasilien.png"
+startx = 1022
+starty = 589
+priority = 2
+
 # [[structure]]
 # name = "portalDackelOst"
 # file = "images/dackel_ost.png"
