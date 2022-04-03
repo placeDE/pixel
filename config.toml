@@ -3,6 +3,8 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
+# priority: higher number = higher chance of being placed
+
 version = 14
 
 [priorities]
@@ -40,10 +42,10 @@ starty = 830
 priority = 2
 
 [[structure]]
-name = "bier_brot_mist"
-file = "images/bier_brot_mist.png"
-startx = 169
-starty = 830
+name = "mist"
+file = "images/mist.png"
+startx = 217
+starty = 833
 priority = 1
 
 # [[structure]]
@@ -111,8 +113,8 @@ priority = 2
 
 [[structure]]
 name = "doenermann"
-file = "images/doenermann.png"
-startx = 1355
+file = "images/doenermann2.png"
+startx = 1337
 starty = 830
 priority = 2
 
@@ -144,12 +146,12 @@ priority = 2
 # starty = 831
 # priority = 3
 
-#[[structure]]
-#name = "wanderer"
-#file = "images/wanderer.png"
-#startx = 1978
-#starty = 830
-#priority = 2
+[[structure]]
+name = "wanderer"
+file = "images/wanderer.png"
+startx = 1978
+starty = 830
+priority = 2
 
 [[structure]]
 name = "amogus"
@@ -207,6 +209,13 @@ startx = 1234
 starty = 833
 priority = 2
 
+[[structure]]
+name = "erdbeermarmeladenbrotMitHonig"
+file = "images/marmeladenbrot.png"
+startx = 1338
+starty = 847
+priority = 1
+
 #[[structure]]
 #name = "welle"
 #file = "images/welle.png"
@@ -225,5 +234,12 @@ priority = 2
 name = "ue-ei"
 file = "images/ue-ei.png"
 startx = 1520
+starty = 830
+priority = 2
+
+[[structure]]
+name = "einstein"
+file = "images/Einstein.png"
+startx = 1946
 starty = 830
 priority = 2
