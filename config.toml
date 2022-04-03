@@ -327,3 +327,10 @@ file = "images/dackel_ost.png"
 startx = 1064
 starty = 848
 priority = 2
+
+[[structure]]
+name = "flagge_sued"
+file = "images/flagge_sued.png"
+startx = 0
+starty = 1125
+priority = 2
