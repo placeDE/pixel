@@ -368,3 +368,11 @@ file = "images/arte_tv.png"
 startx = 1129
 starty = 825
 priority = 2
+
+
+[[structure]]
+name = "flagge_sued"
+file = "images/flagge_sued.png"
+startx = 0
+starty = 1121
+priority = 1
