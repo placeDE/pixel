@@ -3,6 +3,8 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
+# priority: higher number = higher chance of being placed
+
 version = 14
 
 [priorities]
@@ -206,6 +208,13 @@ file = "images/baum.png"
 startx = 1234
 starty = 833
 priority = 2
+
+[[structure]]
+name = "erdbeermarmeladenbrotMitHonig"
+file = "images/marmeladenbrot.png"
+startx = 1338
+starty = 846
+priority = 1
 
 #[[structure]]
 #name = "welle"
