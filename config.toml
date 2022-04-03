@@ -18,3 +18,10 @@ file = "images/everything.png"
 startx = 1333
 starty = 753
 priority = 3
+
+[[structure]]
+name = "fish-background"
+file = "images/fish-background.png"
+startx = 1333
+starty = 753
+priority = 2
