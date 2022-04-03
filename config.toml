@@ -82,6 +82,13 @@ starty = 838
 priority = 2
 
 [[structure]]
+name = "verspaetung"
+file = "images/verspaetung.png"
+startx = 298
+starty = 847
+priority = 2
+
+[[structure]]
 name = "ice"
 file = "images/ice.png"
 priority_file = "images/ice-priority.png"
