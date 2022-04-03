@@ -13,22 +13,29 @@ version = 13
 "3" = 10
 
 [[structure]]
-name = "logo"
-file = "images/everything.png"
+name = "Logo"
+file = "images/logo_fish.png"
+startx = 1333
+starty = 763
+priority = 2
+
+[[structure]]
+name = "collab"
+file = "images/collab.png"
 startx = 1333
 starty = 753
-priority = 3
+priority = 2
 
 [[structure]]
 name = "fish-background"
 file = "images/fish-background.png"
 startx = 1333
 starty = 753
-priority = 2
+priority = 1
 
 [[structure]]
 name = "augsburg"
 file = "images/augsburg.png"
 startx = 1333
 starty = 753
-priority = 3
+priority = 2
