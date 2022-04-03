@@ -5,7 +5,7 @@ ignore_colors = [
 
 # priority: higher number = higher chance of being placed
 
-version = 14
+version = 15
 
 [priorities]
 "0" = 0
