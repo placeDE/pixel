@@ -327,3 +327,10 @@ file = "images/dackel_ost.png"
 startx = 1064
 starty = 848
 priority = 2
+
+[[structure]]
+name = "portalDackelWest"
+file = "images/dackel_west.png"
+startx = 739
+starty = 838
+priority = 2
