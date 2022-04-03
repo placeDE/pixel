@@ -21,7 +21,7 @@ starty = 869
 name = "suisei"
 file = "images/suisei.png"
 startx = 1451
-starty = 1078
+starty = 1076
 
 [[structure]]
 name = "niji_main"
@@ -75,4 +75,4 @@ starty = 782
 name = "all_fubu_stuff"
 file = "images/all_fubu_stuff.png"
 startx = 1332
-starty = 1043
+starty = 1042
