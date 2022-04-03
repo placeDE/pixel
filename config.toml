@@ -64,3 +64,9 @@ name = "shuba"
 file = "images/shuba area(w yagoo).png"
 startx = 230
 starty = 782
+
+[[structure]]
+name = "all_fubu_stuff"
+file = "images/all_fubu_stuff.png"
+startx = 1332
+starty = 1043
