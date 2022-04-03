@@ -213,7 +213,7 @@ priority = 2
 name = "erdbeermarmeladenbrotMitHonig"
 file = "images/marmeladenbrot.png"
 startx = 1338
-starty = 846
+starty = 847
 priority = 1
 
 #[[structure]]
