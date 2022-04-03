@@ -151,7 +151,7 @@ priority = 2
 [[structure]]
 name = "portalOrange"
 file = "images/portal_orange.png"
-startx = 758
+startx = 756
 starty = 828
 priority = 2
 
