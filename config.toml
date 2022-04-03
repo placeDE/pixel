@@ -243,3 +243,10 @@ file = "images/loewe.png"
 startx = 1282
 starty = 830
 priority = 2
+
+[[structure]]
+name = "neuschwanstein"
+file = "images\neuschwanstein.png"
+startx = 1813
+starty = 831
+priority = 2
