@@ -18,6 +18,12 @@ startx = 1884
 starty = 733
 
 [[structure]]
+name = "suisei"
+file = "images/suisei.png"
+startx = 1125
+starty = 1333
+
+[[structure]]
 name = "niji_main"
 file = "images/Nijisanji logo.png"
 startx = 165
