@@ -230,10 +230,16 @@ startx = 1694
 starty = 830
 priority = 2
 
-
 [[structure]]
 name = "einstein"
 file = "images/Einstein.png"
 startx = 1946
+starty = 830
+priority = 2
+
+[[structure]]
+name = "belgischerLoewe"
+file = "images/loewe.png"
+startx = 1282
 starty = 830
 priority = 2
