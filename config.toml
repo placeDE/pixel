@@ -42,10 +42,10 @@ starty = 830
 priority = 2
 
 [[structure]]
-name = "bier_brot_mist"
-file = "images/bier_brot_mist.png"
-startx = 169
-starty = 830
+name = "mist"
+file = "images/mist.png"
+startx = 217
+starty = 833
 priority = 1
 
 # [[structure]]
