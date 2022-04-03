@@ -1,4 +1,4 @@
-# Place DE pixel data
+# Place Vtubers pixel data
 
 This repository tracks the current goals of the r/place Vtubers community.
 
