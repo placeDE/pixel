@@ -280,6 +280,13 @@ starty = 846
 priority = 2
 
 [[structure]]
+name = "beethoven"
+file = "images/beethoven.png"
+startx = 909
+starty = 830
+priority = 2
+
+[[structure]]
 name = "mittwochsfrosch"
 file = "images/mittwochsfrosch.png"
 startx = 629
