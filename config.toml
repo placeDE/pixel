@@ -22,3 +22,15 @@ name = "yagoo"
 file = "images/yagoo.png"
 startx = 1332
 starty = 902
+
+[[structure]]
+name = "flare"
+file = "images/Flare.png"
+startx = 1365
+starty = 869
+
+[[structure]]
+name = "fubuhappy"
+file = "images/fubuhappy.png"
+startx = 1332
+starty = 869
