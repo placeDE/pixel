@@ -12,6 +12,12 @@ startx = 240
 starty = 737
 
 [[structure]]
+name = "vshoujo"
+file = "images/hololive_text.png"
+startx = 165
+starty = 749
+
+[[structure]]
 name = "asacoco"
 file = "images/asacoco.png"
 startx = 257
