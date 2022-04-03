@@ -274,6 +274,13 @@ starty = 846
 priority = 2
 
 [[structure]]
+name = "mittwochsfrosch"
+file = "images/mittwochsfrosch.png"
+startx = 629
+starty = 844
+priority = 2
+
+[[structure]]
 name = "ue-ei"
 file = "images/ue-ei.png"
 startx = 1520
