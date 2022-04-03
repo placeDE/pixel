@@ -29,7 +29,11 @@ if (args.length  == 0) {
     signale.error('Missing access token.');
     process.exit(1);
 }
-let accessToken = args[0];
+let defaultAccessToken = args[0];
+
+if (args.length > 4) {
+    console.warn("Mehr als 4 Reddit Accounts gleichzeitig werden nicht empfohlen!")
+}
 
 
 const COLOR_MAPPINGS = {
@@ -63,7 +67,12 @@ const COLOR_MAPPINGS = {
 	setInterval(updateOrders, 5 * 60 * 1000); // Update orders every 5 minutes
 	await updateOrders();
 
-	attemptPlace();
+	const interval = 300 / args.length;
+    var delay = 0;
+    for (const accessToken of args) {
+        setTimeout(() => attemptPlace(accessToken), delay * 1000);
+        delay += interval;
+    }
 })();
 
 let rgbaJoin = (a1, a2, rowSize = 1000, cellSize = 4) => {
@@ -94,15 +103,16 @@ function getPixelList() {
 	return structures.map(structure => structure.pixels).flat();
 }
 
-async function attemptPlace() {
+async function attemptPlace(token) {
     var map0;
     var map1;
+	let retry = () => attemptPlace(token);
     try {
         map0 = await getMapFromUrl(await getCurrentImageUrl('0'))
         map1 = await getMapFromUrl(await getCurrentImageUrl('1'));
     } catch (e) {
         signale.warn('Fehler beim Abrufen der Zeichenfläche. Neuer Versuch in 15 Sekunden: ', e);
-        setTimeout(attemptPlace, 15000); // probeer opnieuw in 15sec.
+        setTimeout(retry, 15000); // probeer opnieuw in 15sec.
         return;
     }
 
@@ -131,7 +141,7 @@ async function attemptPlace() {
         signale.info('Pixel wird gesetzt auf ' + x + ', ' + y +'...');
 
 		const time = new Date().getTime();
-		let nextAvailablePixelTimestamp = await place(x, y, colorId) ?? new Date(time + 1000 * 60 * 5 + 1000 * 15)
+		let nextAvailablePixelTimestamp = await place(x, y, colorId, token) ?? new Date(time + 1000 * 60 * 5 + 1000 * 15)
 
 		// Sanity check timestamp
 		if (nextAvailablePixelTimestamp < time || nextAvailablePixelTimestamp > time + 1000 * 60 * 5 + 1000 * 15) {
@@ -144,7 +154,7 @@ async function attemptPlace() {
 		const minutes = Math.floor(waitFor / (1000 * 60))
 		const seconds = Math.floor((waitFor / 1000) % 60)
         signale.info('Warten auf Abkühlzeit ' + minutes + ':' + seconds + ' bis ' + new Date(nextAvailablePixelTimestamp).toLocaleTimeString());
-		setTimeout(attemptPlace, waitFor);
+		setTimeout(retry, waitFor);
 	}
 
 	if	(foundPixel) {
@@ -153,7 +163,7 @@ async function attemptPlace() {
 	}
 
     signale.success('Alle bestellten Pixel haben bereits die richtige Farbe!');
-	setTimeout(attemptPlace, 2 * 1000); // probeer opnieuw in 30sec.
+	setTimeout(retry, 2 * 1000); // probeer opnieuw in 30sec.
 }
 
 
@@ -195,7 +205,7 @@ function updateOrders() {
  * @param color
  * @returns {Promise<number>}
  */
- async function place(x, y, color) {
+ async function place(x, y, color, token = defaultAccessToken) {
 	const response = await fetch('https://gql-realtime-2.reddit.com/query', {
 		method: 'POST',
 		body: JSON.stringify({
@@ -242,7 +252,7 @@ function updateOrders() {
 			'origin': 'https://hot-potato.reddit.com',
 			'referer': 'https://hot-potato.reddit.com/',
 			'apollographql-client-name': 'mona-lisa',
-			'Authorization': `Bearer ${accessToken}`,
+			'Authorization': `Bearer ${token}`,
 			'Content-Type': 'application/json'
 		}
 	});
@@ -270,7 +280,7 @@ async function getCurrentImageUrl(id = '0') {
 			ws.send(JSON.stringify({
 				'type': 'connection_init',
 				'payload': {
-					'Authorization': `Bearer ${accessToken}`
+					'Authorization': `Bearer ${defaultAccessToken}`
 				}
 			}));
 
