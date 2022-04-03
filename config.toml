@@ -347,3 +347,10 @@ priority = 2
 # startx = 1064
 # starty = 848
 # priority = 2
+
+[[structure]]
+name = "arte_tv"
+file = "images/arte_tv.png"
+startx = 1129
+starty = 829
+priority = 2
