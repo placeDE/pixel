@@ -1,0 +1,26 @@
+{
+  "name": "tum-r-place-bot",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Exzellenter r/place Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "fastify": "^3.27.4",
+    "fastify-formbody": "^5.2.0",
+    "fastify-static": "^4.5.0",
+    "get-pixels": "^3.3.3",
+    "handlebars": "^4.7.7",
+    "node-fetch": "^3.2.3",
+    "point-of-view": "^5.1.0",
+    "signale": "^1.4.0",
+    "ws": "^8.5.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC"
+}
