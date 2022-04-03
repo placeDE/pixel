@@ -258,3 +258,17 @@ file = "images\neuschwanstein.png"
 startx = 1813
 starty = 831
 priority = 2
+
+[[structure]]
+name = "rose"
+file = "images/rose.png"
+startx = 1878
+starty = 831
+priority = 2
+
+[[structure]]
+name = "invite"
+file = "images/invite.png"
+startx = 588
+starty = 846
+priority = 2
