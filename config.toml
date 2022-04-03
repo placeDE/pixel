@@ -5,7 +5,7 @@ ignore_colors = [
 
 # priority: higher number = higher chance of being placed
 
-version = 14
+version = 16
 
 [priorities]
 "0" = 0
@@ -27,6 +27,13 @@ file = "images/maus.png"
 priority_file = "images/maus-priority.png"
 startx = 45
 starty = 832
+priority = 2
+
+[[structure]]
+name = "sprich_deutsch"
+file = "images/sprich_deutsch_schriftzug.png"
+startx = 113
+starty = 831
 priority = 2
 
 [[structure]]
@@ -192,6 +199,13 @@ starty = 831
 priority = 2
 
 [[structure]]
+name = "animal_crossing"
+file = "images/animal_crossing.png"
+startx = 1412
+starty = 861
+priority = 2
+
+[[structure]]
 name = "schnellfahren"
 file = "images/schnellfahren.png"
 startx = 566
@@ -327,6 +341,20 @@ startx = 1476
 starty = 805
 priority = 2
 
+[[structure]]
+name = "fachwerk"
+file = "images/fachwerk.png"
+startx = 1539
+starty = 837
+priority = 2
+
+[[structure]]
+name = "pokal"
+file = "images/pokal_brasilien.png"
+startx = 1022
+starty = 589
+priority = 2
+
 # [[structure]]
 # name = "portalDackelOst"
 # file = "images/dackel_ost.png"
@@ -335,8 +363,16 @@ priority = 2
 # priority = 2
 
 [[structure]]
+name = "arte_tv"
+file = "images/arte_tv.png"
+startx = 1129
+starty = 825
+priority = 2
+
+
+[[structure]]
 name = "flagge_sued"
 file = "images/flagge_sued.png"
 startx = 0
 starty = 1125
-priority = 2
+priority = 1
