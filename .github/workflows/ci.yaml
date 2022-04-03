@@ -12,9 +12,13 @@ on:
       
 permissions:
   contents: write
-  
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  if_merged:
+  generate:
     if: "!contains(github.event.commits[0].message, '[Generate]')"
     runs-on: ubuntu-latest
     steps:    
