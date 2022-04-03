@@ -392,6 +392,13 @@ priority = 2
 # priority = 1
 
 [[structure]]
+name = "grabstein"
+file = "images/grabstein.png"
+startx = 1284
+starty = 1123
+priority = 2
+
+[[structure]]
 name = "windraeder"
 file = "images/windraeder.png"
 startx = 1070
