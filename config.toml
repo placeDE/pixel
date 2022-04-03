@@ -170,6 +170,13 @@ starty = 838
 priority = 2
 
 [[structure]]
+name = "portalDackelOst"
+file = "images/dackel_ost.png"
+startx = 1064
+starty = 848
+priority = 2
+
+[[structure]]
 name = "portalOrange"
 file = "images/portal_orange.png"
 startx = 756
@@ -376,13 +383,6 @@ file = "images/pokal_brasilien.png"
 startx = 1022
 starty = 589
 priority = 2
-
-# [[structure]]
-# name = "portalDackelOst"
-# file = "images/dackel_ost.png"
-# startx = 1064
-# starty = 848
-# priority = 2
 
 [[structure]]
 name = "arte_tv"
