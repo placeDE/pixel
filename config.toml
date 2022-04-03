@@ -334,6 +334,13 @@ startx = 1476
 starty = 805
 priority = 2
 
+[[structure]]
+name = "fachwerk"
+file = "images/fachwerk.png"
+startx = 1539
+starty = 837
+priority = 2
+
 # [[structure]]
 # name = "portalDackelOst"
 # file = "images/dackel_ost.png"
