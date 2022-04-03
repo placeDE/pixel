@@ -390,3 +390,10 @@ priority = 2
 # startx = 0
 # starty = 1121
 # priority = 1
+
+[[structure]]
+name = "grabstein"
+file = "images/grabstein.png"
+startx = 1284
+starty = 1123
+priority = 2
