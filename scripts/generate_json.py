@@ -45,7 +45,7 @@ def find_closest_index(color):
             closest = key
     return colors[closest]
 
-def create_structure(image, startx, starty, priority, ignore_colors):
+def create_structure(image, startx, starty, ignore_colors):
     pixels = []
     with Image.open(image) as img:
         for x in range(img.size[0]):
@@ -56,11 +56,9 @@ def create_structure(image, startx, starty, priority, ignore_colors):
                 pixels.append({
                     "x": startx + x,
                     "y": starty + y,
-                    "color": find_closest_index(color),
-                    "priority": priority,
+                    "color": find_closest_index(color)
                 })
     return {
-            "priority": priority,
             "pixels": pixels,
             }
 
@@ -76,14 +74,13 @@ if __name__ == "__main__":
 
     data = {
         "version": version,
-        "structures": {},
-        "priorities": config["priorities"],
+        "structures": {}
     }
     for struct in config["structure"]:
         file = struct["file"]
         name = struct["name"]
         print(f"Adding file {file} for structure {name}")
-        data["structures"][name] = create_structure(file, struct["startx"], struct["starty"], struct["priority"], ignore_colors)
+        data["structures"][name] = create_structure(file, struct["startx"], struct["starty"], ignore_colors)
     
     with open(args.output, "w") as f:
         f.write(json.dumps(data, indent=4))

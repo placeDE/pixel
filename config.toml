@@ -5,29 +5,20 @@ ignore_colors = [
 
 version = 11
 
-[priorities]
-"0" = 0
-"1" = 1
-"2" = 5
-"3" = 10
-
 [[structure]]
 name = "hololive_text"
 file = "images/hololive_text.png"
 startx = 240
 starty = 737
-priority = 1
 
 [[structure]]
 name = "asacoco"
 file = "images/asacoco.png"
 startx = 257
 starty = 753
-priority = 0
 
 [[structure]]
 name = "yagoo"
 file = "images/yagoo.png"
 startx = 1332
 starty = 902
-priority = 2
