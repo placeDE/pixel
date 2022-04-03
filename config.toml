@@ -20,7 +20,7 @@ starty = 733
 [[structure]]
 name = "niji_main"
 file = "images/Nijisanji logo.png"
-startx = 166
+startx = 167
 starty = 721
 
 #[[structure]]
@@ -56,5 +56,5 @@ starty = 782
 [[structure]]
 name = "vshojo"
 file = "images/vshojo.png"
-startx = 162
+startx = 163
 starty = 748
