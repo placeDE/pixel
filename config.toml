@@ -100,3 +100,16 @@ name = "olaaaa"
 file = "images/Olaaaa.png"
 startx = 1332
 starty = 1172
+
+
+
+
+
+
+
+# Add everything above this!!!
+[[structure]]
+name = "template_fixes.png"
+file = "images/template_fixes.png"
+startx = 0
+starty = 0
