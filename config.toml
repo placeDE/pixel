@@ -213,12 +213,12 @@ priority = 2
 #starty = 838
 #priority = 2
 
-[[structure]]
-name = "arte2"
-file = "images/arte2.png"
-startx = 1127
-starty = 830
-priority = 2
+# [[structure]]
+# name = "arte2"
+# file = "images/arte2.png"
+# startx = 1127
+# starty = 830
+# priority = 2
 
 [[structure]]
 name = "baum"
