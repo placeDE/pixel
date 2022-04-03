@@ -199,6 +199,13 @@ starty = 831
 priority = 2
 
 [[structure]]
+name = "animal_crossing"
+file = "images/animal_crossing.png"
+startx = 1412
+starty = 861
+priority = 2
+
+[[structure]]
 name = "schnellfahren"
 file = "images/schnellfahren.png"
 startx = 566
@@ -341,9 +348,23 @@ startx = 1539
 starty = 837
 priority = 2
 
+[[structure]]
+name = "pokal"
+file = "images/pokal_brasilien.png"
+startx = 1022
+starty = 589
+priority = 2
+
 # [[structure]]
 # name = "portalDackelOst"
 # file = "images/dackel_ost.png"
 # startx = 1064
 # starty = 848
 # priority = 2
+
+[[structure]]
+name = "arte_tv"
+file = "images/arte_tv.png"
+startx = 1129
+starty = 825
+priority = 2
