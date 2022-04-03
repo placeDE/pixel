@@ -159,6 +159,13 @@ starty = 833
 priority = 2
 
 [[structure]]
+name = "tigerente"
+file = "images/tigerente_frosch.png"
+startx = 1430
+starty = 836
+priority = 2
+
+[[structure]]
 name = "schnellfahren"
 file = "images/schnellfahren.png"
 startx = 566
