@@ -328,9 +328,9 @@ startx = 1476
 starty = 805
 priority = 2
 
-[[structure]]
-name = "portalDackelOst"
-file = "images/dackel_ost.png"
-startx = 1064
-starty = 848
-priority = 2
+# [[structure]]
+# name = "portalDackelOst"
+# file = "images/dackel_ost.png"
+# startx = 1064
+# starty = 848
+# priority = 2
