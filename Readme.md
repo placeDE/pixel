@@ -8,12 +8,14 @@ Das Bild muss 1:1 das Pixelart sein nur aus den vorgegebenen Farben von Reddit b
 
 
 **3. in config.toml neuen Block hinzufügen:** 
-`[[structure]]`\
-`name = "beispiel"`\
-`file = "images/beispiel.png"`\
-`startx = x-Koordinate`\
-`starty = y-Koordinate`\
-`priority = 2`\
+```toml
+[[structure]]
+name = "beispiel"
+file = "images/beispiel.png"
+startx = 1234 #x-Koordinate
+starty = 5678 #y-Koordinate
+priority = 2
+```
 Dabei bezeichnet die Koordinate das oberste linke Pixel der verlinkten png in r/place
 und Priority bitte **NICHT** ändern, außer es ist mit dem Rest der Devs abgesprochen.
 
