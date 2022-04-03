@@ -2,2749 +2,2749 @@
     "version": 13,
     "structures": {
         "Logo": {
-            "priority": 2,
+            "priority": 3,
             "pixels": [
                 {
                     "x": 1333,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 764,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 765,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 766,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 767,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 768,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 769,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 770,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 771,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 772,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 773,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 774,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 775,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 776,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 777,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1333,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1334,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1335,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1336,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1337,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1338,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1339,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1340,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1341,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1342,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1343,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1344,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1345,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1346,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1347,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1348,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1349,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1350,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1351,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1352,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1353,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1354,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1355,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1356,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 766,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 767,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 768,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 769,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 770,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 771,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 772,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 773,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 774,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 775,
                     "color": 31,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1357,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1358,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1359,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1360,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 764,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 765,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 766,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 767,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 768,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 769,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 770,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 771,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 772,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 773,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 774,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 775,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 776,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 777,
                     "color": 12,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1361,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 763,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 764,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 765,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 766,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 767,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 768,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 769,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 770,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 771,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 772,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 773,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 774,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 775,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 776,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 777,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 },
                 {
                     "x": 1362,
                     "y": 778,
                     "color": 27,
-                    "priority": 2
+                    "priority": 3
                 }
             ]
         },

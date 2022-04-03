@@ -17,7 +17,7 @@ name = "Logo"
 file = "images/logo_fish.png"
 startx = 1333
 starty = 763
-priority = 2
+priority = 3
 
 [[structure]]
 name = "collab"
