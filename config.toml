@@ -179,11 +179,18 @@ priority = 2
 ##starty = 828
 ##priority = 2
 
+#[[structure]]
+#name = "arte"
+#file = "images/arte.png"
+#startx = 1126
+#starty = 838
+#priority = 2
+
 [[structure]]
-name = "arte"
-file = "images/arte.png"
-startx = 1126
-starty = 838
+name = "arte2"
+file = "images/arte2.png"
+startx = 1127
+starty = 830
 priority = 2
 
 [[structure]]
