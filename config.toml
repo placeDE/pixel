@@ -6,28 +6,46 @@ ignore_colors = [
 version = 11
 
 [[structure]]
-name = "hololive_text"
-file = "images/hololive_text.png"
-startx = 240
-starty = 737
-
-[[structure]]
-name = "asacoco"
-file = "images/asacoco.png"
-startx = 257
-starty = 753
-
-[[structure]]
-name = "yagoo"
-file = "images/yagoo.png"
-startx = 1332
-starty = 900
-
-[[structure]]
 name = "flare"
 file = "images/Flare.png"
 startx = 1365
 starty = 869
+
+[[structure]]
+name = "lazulight"
+file = "images/Lazulight.png"
+startx = 1884
+starty = 733
+
+[[structure]]
+name = "niji_main"
+file = "images/Nijisanji logo.png"
+startx = 167
+starty = 721
+
+[[structure]]
+name = "vshojo"
+file = "images/vshojo.png"
+startx = 163
+starty = 747
+
+#[[structure]]
+#name = "sanbaka + others"
+#file = "images/Sanbaka + Others.png"
+#startx = 240
+#starty = 737
+
+[[structure]]
+name = "yagoo"
+file = "images/Yagoo3.png"
+startx = 1332
+starty = 900
+
+[[structure]]
+name = "main area"
+file = "images/logo area.png"
+startx = 200
+starty = 720
 
 [[structure]]
 name = "fubuhappy"
@@ -35,3 +53,8 @@ file = "images/fubuhappy.png"
 startx = 1333
 starty = 870
 
+[[structure]]
+name = "shuba"
+file = "images/shuba area(w yagoo).png"
+startx = 230
+starty = 782
