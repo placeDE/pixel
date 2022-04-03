@@ -40,7 +40,7 @@ if (window.top !== window.self) {
             method: 'GET',
             fetch: true,
             responseType: 'document',
-            url: 'https://raw.githubusercontent.com/TheGeka/pixel/main/templates.csv',
+            url: 'https://raw.githubusercontent.com/TheGeka/pixel/new-scripts/templates.csv',
             onload: function (response) {
                 const responses = response.responseText.split('\n')
                 for (let i = 0; i < responses.length; i++) {
