@@ -25,7 +25,7 @@ priority = 3
 name = "maus"
 file = "images/maus.png"
 priority_file = "images/maus-priority.png"
-startx = 58
+startx = 45
 starty = 832
 priority = 2
 
