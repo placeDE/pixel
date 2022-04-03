@@ -3,7 +3,8 @@
 
 
 **2. Bild in Images-Ordner hinzufügen mit Dateiname:** 
-_beispiel.png_ mit transparentem Hintergrund und keinem Rand
+_beispiel.png_ mit transparentem Hintergrund und keinem leeren Rand.\
+Das Bild muss 1:1 das Pixelart sein nur aus den vorgegebenen Farben von Reddit bestehen
 
 
 **3. in config.toml neuen Block hinzufügen:** 
