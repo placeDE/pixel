@@ -26,4 +26,4 @@ for sheet in wb:
             print(f"Bad color format: {hex_color}")
             continue
         img.putpixel((column_idx-2, row_idx-2), rgba_color)
-  img.save("../images/"+sheet.title+".png")
+  img.save("images/"+sheet.title+".png")
