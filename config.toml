@@ -469,3 +469,9 @@ startx = 389
 starty = 1971
 priority = 2
 
+[[structure]]
+name = "maluna"
+file = "images/maluna.png"
+startx = 1485
+starty = 1173
+priority = 2
