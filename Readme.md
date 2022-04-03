@@ -1,8 +1,8 @@
-# Pixel store (wip)
+# place Vtubers Template 
 
 Place to coordinate which pixel to place  
-Aktueller Bot Auftrag:
-![Bot Auftrag](output.png)
+Current template:
+![Template](output.png)
 
 ## Scripts
 
