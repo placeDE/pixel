@@ -447,3 +447,17 @@ file = "images/auto.png"
 startx = 775
 starty = 1125
 priority = 2
+
+[[structure]]
+name = "rvnx"
+file = "images/rvnx.png"
+startx = 744
+starty = 647
+priority = 2
+
+[[structure]]
+name = "pogostuck"
+file = "images/pogostuck.png"
+startx = 1575
+starty = 832
+priority = 2
