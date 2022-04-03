@@ -70,7 +70,6 @@ priority = 2
 [[structure]]
 name = "autobahn"
 file = "images/autobahn.png"
-priority_file = "images/autobahn-priority.png"
 startx = 539
 starty = 838
 priority = 2
