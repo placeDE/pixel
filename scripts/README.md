@@ -1,6 +1,6 @@
 # Place DE pixel data
 
-This repository tracks the current goals of the r/de place community.
+This repository tracks the current goals of the r/place Vtubers community.
 
 Requires pillow, which can be installed using pip: `pip install pillow`
 
