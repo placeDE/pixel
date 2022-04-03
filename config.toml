@@ -299,3 +299,10 @@ file = "images/vw.png"
 startx = 1631
 starty = 847
 priority = 2
+
+[[structure]]
+name = "steckdose"
+file = "images/steckdose.png"
+startx = 195
+starty = 829
+priority = 2
