@@ -137,19 +137,19 @@ priority = 2
 # starty = 831
 # priority = 3
 
-[[structure]]
-name = "wanderer"
-file = "images/wanderer.png"
-startx = 1978
-starty = 830
-priority = 2
+#[[structure]]
+#name = "wanderer"
+#file = "images/wanderer.png"
+#startx = 1978
+#starty = 830
+#priority = 2
 
 [[structure]]
 name = "amogus"
 file = "images/amogus.png"
 startx = 1780
 starty = 781
-priority = 2
+priority = 1
 
 # [[structure]]
 # name = "nettHier"
@@ -172,12 +172,12 @@ startx = 566
 starty = 846
 priority = 2
 
-[[structure]]
-name = "autobahn+schild"
-file = "images/autobahn_und_schild.png"
-startx = 1094
-starty = 828
-priority = 2
+#[[structure]]
+##name = "autobahn+schild"
+##file = "images/autobahn_und_schild.png"
+##startx = 1094
+##starty = 828
+##priority = 2
 
 [[structure]]
 name = "arte"
@@ -193,12 +193,12 @@ startx = 1234
 starty = 833
 priority = 2
 
-[[structure]]
-name = "welle"
-file = "images/welle.png"
-startx = 1921
-starty = 776
-priority = 2
+#[[structure]]
+#name = "welle"
+#file = "images/welle.png"
+#startx = 1921
+#starty = 776
+#priority = 2
 
 [[structure]]
 name = "bundestag"
