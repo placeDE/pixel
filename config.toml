@@ -279,3 +279,10 @@ file = "images/ue-ei.png"
 startx = 1520
 starty = 830
 priority = 2
+
+[[structure]]
+name = "vw"
+file = "images/vw.png"
+startx = 1631
+starty = 847
+priority = 2
