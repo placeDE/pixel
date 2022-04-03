@@ -296,7 +296,7 @@ priority = 2
 [[structure]]
 name = "ue-ei"
 file = "images/ue-ei.png"
-startx = 1520
+startx = 1510
 starty = 830
 priority = 2
 
