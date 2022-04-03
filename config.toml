@@ -20,8 +20,8 @@ starty = 733
 [[structure]]
 name = "niji_main"
 file = "images/Nijisanji logo.png"
-startx = 165
-starty = 722
+startx = 166
+starty = 721
 
 #[[structure]]
 #name = "vshojo"
