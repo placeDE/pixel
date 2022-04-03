@@ -55,20 +55,28 @@ def find_closest_index(color):
 
 def create_structure(image, priority_mask, startx, starty, structure_priority, ignore_colors):
     pixels = []
-    with Image.open(image) as img:
-        with Image.open(priority_mask) as priority_img:
-            for x in range(img.size[0]):
-                for y in range(img.size[1]):
-                    color = img.getpixel((x, y))
-                    if color in ignore_colors:
-                        continue
-                    pixel_priority = priority_img.getpixel((x, y))[0]
-                    pixels.append({
-                        "x": startx + x,
-                        "y": starty + y,
-                        "color": find_closest_index(color),
+
+    def add_pixel(x, y, color, pixel_priority):
+        pixels.append({
+                        "x": x,
+                        "y": y,
+                        "color": color,
                         "priority": pixel_priority,
                     })
+
+    with Image.open(image) as img:
+        priority_img = Image.open(priority_mask) if priority_mask else None
+        for x in range(img.size[0]):
+            for y in range(img.size[1]):
+                color = img.getpixel((x, y))
+                if color in ignore_colors:
+                    continue
+                pixel_priority = priority_img.getpixel((x, y))[0] if priority_img else 128
+                add_pixel(startx + x, starty + y, find_closest_index(color), pixel_priority)
+        
+        if priority_img:
+            priority_img.close()
+
     return {
             "priority": structure_priority,
             "pixels": pixels,
@@ -91,7 +99,7 @@ if __name__ == "__main__":
     }
     for struct in config["structure"]:
         file = struct["file"]
-        priority_file = struct["priority_file"]
+        priority_file = struct.get("priority_file", None)
         name = struct["name"]
         print(f"Adding file {file} for structure {name}")
         data["structures"][name] = create_structure(file, priority_file, struct["startx"], struct["starty"], struct["priority"], ignore_colors)
