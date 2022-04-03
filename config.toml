@@ -178,3 +178,10 @@ file = "images/autobahn_und_schild.png"
 startx = 1094
 starty = 828
 priority = 2
+
+[[structure]]
+name = "arte"
+file = "images/arte.png"
+startx = 1126
+starty = 838
+priority = 2
