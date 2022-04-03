@@ -162,7 +162,7 @@ priority = 2
 name = "tigerente"
 file = "images/tigerente_frosch.png"
 startx = 1430
-starty = 836
+starty = 835
 priority = 2
 
 [[structure]]
