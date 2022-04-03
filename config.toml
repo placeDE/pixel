@@ -303,6 +303,6 @@ priority = 2
 [[structure]]
 name = "steckdose"
 file = "images/steckdose.png"
-startx = 195
+startx = 1195
 starty = 829
 priority = 2
