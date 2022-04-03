@@ -243,3 +243,10 @@ file = "images/loewe.png"
 startx = 1282
 starty = 830
 priority = 2
+
+[[structure]]
+name = "mittwochsfrosch"
+file = "images/mittwochsfrosch.png"
+startx = 630
+starty = 843
+priority = 2
