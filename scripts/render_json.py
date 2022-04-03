@@ -46,6 +46,7 @@ if __name__ == "__main__":
 
     img = Image.new("RGBA", (WIDTH, HEIGHT), "#00000000")
     img_overlay = Image.new("RGBA", (WIDTH * 3, HEIGHT * 3), "#00000000")
+    img_priority = Image.new("RGBA", (WIDTH, HEIGHT), "#00000000")
 
     for file in args.files:
         with open(file) as f:
@@ -57,6 +58,7 @@ if __name__ == "__main__":
                 x = pixel["x"]
                 y = pixel["y"]
                 color_index = pixel["color"]
+                priority = pixel["priority"]
                 if type(color_index) is str:
                     color = hex_to_col(color_index)
                     print(f"converted {color_index} to {color}")
@@ -64,5 +66,7 @@ if __name__ == "__main__":
                     color = colors[color_index]
                 img.putpixel((x, y), color)
                 img_overlay.putpixel((x * 3 + 1, y * 3 + 1), color)
+                img_priority.putpixel((x, y), (priority, priority, priority))
     img.save("output.png")
     img_overlay.save("overlay.png")
+    img_priority.save("priority.png")
