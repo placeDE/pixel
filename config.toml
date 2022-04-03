@@ -146,12 +146,12 @@ priority = 2
 # starty = 831
 # priority = 3
 
-#[[structure]]
-#name = "wanderer"
-#file = "images/wanderer.png"
-#startx = 1978
-#starty = 830
-#priority = 2
+[[structure]]
+name = "wanderer"
+file = "images/wanderer.png"
+startx = 1978
+starty = 830
+priority = 2
 
 [[structure]]
 name = "amogus"
@@ -227,5 +227,13 @@ priority = 1
 name = "bundestag"
 file = "images/bundestag.png"
 startx = 1694
+starty = 830
+priority = 2
+
+
+[[structure]]
+name = "einstein"
+file = "images/Einstein.png"
+startx = 1946
 starty = 830
 priority = 2
