@@ -35,6 +35,10 @@ jobs:
         with:
           path: "scripts/requirements.txt"
 
+      - name: Generate Pictures
+        run: python scripts/get_sheet.py
+        shell: sh
+
       - name: Generate json
         run: python scripts/generate_json.py --config config.toml
         shell: sh
