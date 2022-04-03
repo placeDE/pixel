@@ -56,8 +56,8 @@ starty = 720
 [[structure]]
 name = "holostars"
 file= "images/holostars.png"
-startx = 303
-starty = 759
+startx = 302
+starty = 758
 
 [[structure]]
 name = "fubuhappy"
@@ -100,3 +100,16 @@ name = "olaaaa"
 file = "images/Olaaaa.png"
 startx = 1332
 starty = 1172
+
+
+
+
+
+
+
+# Add everything above this!!!
+[[structure]]
+name = "template_fixes.png"
+file = "images/template_fixes.png"
+startx = 0
+starty = 0
