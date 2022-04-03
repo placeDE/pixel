@@ -17,11 +17,11 @@ file = "images/Lazulight.png"
 startx = 1884
 starty = 733
 
-[[structure]]
-name = "sanbaka + others"
-file = "images/Sanbaka + Others.png"
-startx = 240
-starty = 737
+#[[structure]]
+#name = "sanbaka + others"
+#file = "images/Sanbaka + Others.png"
+#startx = 240
+#starty = 737
 
 [[structure]]
 name = "yagoo"
@@ -30,10 +30,10 @@ startx = 1332
 starty = 900
 
 [[structure]]
-name = "asacoco"
-file = "images/asacoco.png"
-startx = 257
-starty = 753
+name = "main area"
+file = "images/logo area.png"
+startx = 200
+starty = 720
 
 [[structure]]
 name = "fubuhappy"
@@ -42,16 +42,10 @@ startx = 1333
 starty = 870
 
 [[structure]]
-name = "hololive_text"
-file = "images/hololive_text.png"
-startx = 240
-starty = 737
-
-[[structure]]
 name = "shuba"
 file = "images/shuba area(no yagoo).png"
-startx = 240
-starty = 737
+startx = 232
+starty = 781
 
 [[structure]]
 name = "vshojo"
