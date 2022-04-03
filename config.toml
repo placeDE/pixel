@@ -411,3 +411,10 @@ file = "images/fernsehturm.png"
 startx = 1070
 starty = 802
 priority = 2
+
+[[structure]]
+name = "knolle"
+file = "images/knolle.png"
+startx = 1203
+starty = 831
+priority = 2
