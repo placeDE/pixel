@@ -113,7 +113,7 @@ priority = 2
 name = "tgv"
 file = "images/tgv.png"
 startx = 434
-starty = 844
+starty = 843
 priority = 2
 
 [[structure]]
