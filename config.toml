@@ -23,6 +23,12 @@ file = "images/Nijisanji logo.png"
 startx = 167
 starty = 721
 
+[[structure]]
+name = "vshojo"
+file = "images/vshojo.png"
+startx = 163
+starty = 747
+
 #[[structure]]
 #name = "sanbaka + others"
 #file = "images/Sanbaka + Others.png"
@@ -49,12 +55,6 @@ starty = 870
 
 [[structure]]
 name = "shuba"
-file = "images/shuba area(no yagoo).png"
+file = "images/shuba area(w yagoo).png"
 startx = 230
 starty = 782
-
-[[structure]]
-name = "vshojo"
-file = "images/vshojo.png"
-startx = 163
-starty = 748
