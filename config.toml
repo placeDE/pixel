@@ -56,8 +56,8 @@ starty = 720
 [[structure]]
 name = "holostars"
 file= "images/holostars.png"
-startx = 303
-starty = 759
+startx = 302
+starty = 758
 
 [[structure]]
 name = "fubuhappy"
