@@ -84,7 +84,7 @@ priority = 2
 [[structure]]
 name = "verspaetung"
 file = "images/verspaetung.png"
-startx = 298
+startx = 300
 starty = 847
 priority = 2
 
