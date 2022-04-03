@@ -113,8 +113,8 @@ priority = 2
 
 [[structure]]
 name = "doenermann"
-file = "images/doenermann.png"
-startx = 1355
+file = "images/doenermann2.png"
+startx = 1337
 starty = 830
 priority = 2
 
