@@ -48,6 +48,12 @@ startx = 200
 starty = 720
 
 [[structure]]
+name = "holostars"
+file= "images/holostars.png"
+startx = 303
+starty = 759
+
+[[structure]]
 name = "fubuhappy"
 file = "images/fubuhappy.png"
 startx = 1333
