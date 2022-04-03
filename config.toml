@@ -40,6 +40,7 @@ priority = 2
 [[structure]]
 name = "bier_brot"
 file = "images/bier_brot.png"
+priority_file = "images/bier_brot-priority.png"
 startx = 169
 starty = 830
 priority = 2
@@ -122,6 +123,7 @@ priority = 2
 [[structure]]
 name = "doenermann"
 file = "images/doenermann2.png"
+priority_file = "images/doenermann2-priority.png"
 startx = 1337
 starty = 830
 priority = 2
@@ -178,6 +180,7 @@ priority = 1
 [[structure]]
 name = "tigerente"
 file = "images/tigerente_frosch.png"
+priority_file = "images/tigerente_frosch-priority.png"
 startx = 1430
 starty = 835
 priority = 2
@@ -234,6 +237,7 @@ priority = 2
 [[structure]]
 name = "bundestag"
 file = "images/bundestag.png"
+priority_file = "images/bundestag-priority.png"
 startx = 1694
 starty = 830
 priority = 2
@@ -241,6 +245,7 @@ priority = 2
 [[structure]]
 name = "einstein"
 file = "images/Einstein.png"
+priority_file = "images/Einstein-priority.png"
 startx = 1946
 starty = 830
 priority = 2
@@ -248,6 +253,7 @@ priority = 2
 [[structure]]
 name = "belgischerLoewe"
 file = "images/loewe.png"
+priority_file = "images/loewe-priority.png"
 startx = 1282
 starty = 830
 priority = 2
