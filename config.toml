@@ -278,3 +278,4 @@ name = "mittwochsfrosch"
 file = "images/mittwochsfrosch.png"
 startx = 629
 starty = 844
+priority = 2
