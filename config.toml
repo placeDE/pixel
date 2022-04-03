@@ -17,6 +17,12 @@ file = "images/Lazulight.png"
 startx = 1884
 starty = 733
 
+[[structure]]
+name = "niji_main"
+file = "images/Nijisanji logo.png"
+startx = 166
+starty = 721
+
 #[[structure]]
 #name = "sanbaka + others"
 #file = "images/Sanbaka + Others.png"
