@@ -27,6 +27,9 @@ jobs:
       - name: Generate json
         run: python scripts/generate_json.py
         shell: sh
+        
+      - name: fetch from master
+        run: git fetch origin main
 
       - name: Generate Pixelart
         run: python scripts/render_json.py
