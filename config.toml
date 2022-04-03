@@ -3,7 +3,7 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 13
+version = 14
 
 [priorities]
 "0" = 0
@@ -38,6 +38,13 @@ file = "images/bier_brot.png"
 startx = 169
 starty = 830
 priority = 2
+
+[[structure]]
+name = "bier_brot_mist"
+file = "images/bier_brot_mist.png"
+startx = 169
+starty = 830
+priority = 1
 
 # [[structure]]
 # name = "saeule"
@@ -113,7 +120,7 @@ priority = 2
 name = "tgv"
 file = "images/tgv.png"
 startx = 434
-starty = 844
+starty = 843
 priority = 2
 
 [[structure]]
@@ -137,30 +144,86 @@ priority = 2
 # starty = 831
 # priority = 3
 
-[[structure]]
-name = "wanderer"
-file = "images/wanderer.png"
-startx = 1978
-starty = 830
-priority = 2
+#[[structure]]
+#name = "wanderer"
+#file = "images/wanderer.png"
+#startx = 1978
+#starty = 830
+#priority = 2
 
 [[structure]]
 name = "amogus"
 file = "images/amogus.png"
 startx = 1780
 starty = 781
+priority = 1
+
+# [[structure]]
+# name = "nettHier"
+# file = "images/nett_hier.png"
+# startx = 1527
+# starty = 833
+# priority = 2
+
+[[structure]]
+name = "tigerente"
+file = "images/tigerente_frosch.png"
+startx = 1430
+starty = 835
 priority = 2
 
 [[structure]]
-name = "nettHier"
-file = "images/nett_hier.png"
-startx = 1527
+name = "schnellfahren"
+file = "images/schnellfahren.png"
+startx = 566
+starty = 846
+priority = 2
+
+#[[structure]]
+##name = "autobahn+schild"
+##file = "images/autobahn_und_schild.png"
+##startx = 1094
+##starty = 828
+##priority = 2
+
+#[[structure]]
+#name = "arte"
+#file = "images/arte.png"
+#startx = 1126
+#starty = 838
+#priority = 2
+
+[[structure]]
+name = "arte2"
+file = "images/arte2.png"
+startx = 1127
+starty = 830
+priority = 2
+
+[[structure]]
+name = "baum"
+file = "images/baum.png"
+startx = 1234
 starty = 833
 priority = 2
 
+# [[structure]]
+# name = "erdbeermarmeladenbrotMitHonig"
+# file = "images/marmeladenbrot.png"
+# startx = 1338
+# starty = 846
+# priority = 2
+
+#[[structure]]
+#name = "welle"
+#file = "images/welle.png"
+#startx = 1921
+#starty = 776
+#priority = 2
+
 [[structure]]
-name = "erdbeermarmeladenbrotMitHonig"
-file = "images/marmeladenbrot.png"
-startx = 1338
-starty = 846
+name = "bundestag"
+file = "images/bundestag.png"
+startx = 1694
+starty = 830
 priority = 2

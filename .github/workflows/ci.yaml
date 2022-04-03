@@ -5,7 +5,10 @@ on:
   pull_request:
     types:
       - closed
-
+      
+permissions:
+  contents: write
+  
 jobs:
   if_merged:
     if: github.event.pull_request.merged == true && ${{ github.base_ref == 'main' }}
@@ -27,6 +30,9 @@ jobs:
       - name: Generate json
         run: python scripts/generate_json.py
         shell: sh
+        
+      - name: fetch from master
+        run: git fetch origin main
 
       - name: Generate Pixelart
         run: python scripts/render_json.py
@@ -43,5 +49,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-
-          
