@@ -390,3 +390,17 @@ priority = 2
 # startx = 0
 # starty = 1121
 # priority = 1
+
+[[structure]]
+name = "windraeder"
+file = "images/windraeder.png"
+startx = 1070
+starty = 802
+priority = 2
+
+[[structure]]
+name = "fernsehturm"
+file = "images/fernsehturm.png"
+startx = 1070
+starty = 802
+priority = 2
