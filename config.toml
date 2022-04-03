@@ -171,3 +171,10 @@ file = "images/schnellfahren.png"
 startx = 566
 starty = 846
 priority = 2
+
+[[structure]]
+name = "autobahn+schild"
+file = "images/autobahn_und_schild.png"
+startx = 1094
+starty = 828
+priority = 2
