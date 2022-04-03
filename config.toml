@@ -30,6 +30,13 @@ starty = 832
 priority = 2
 
 [[structure]]
+name = "sprich_deutsch"
+file = "images/sprich_deutsch_schriftzug.png"
+startx = 113
+starty = 831
+priority = 2
+
+[[structure]]
 name = "adler"
 file = "images/adler.png"
 priority_file = "images/adler-priority.png"
