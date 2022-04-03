@@ -185,10 +185,3 @@ file = "images/arte.png"
 startx = 1126
 starty = 838
 priority = 2
-
-[[structure]]
-name = "baum"
-file = "images/baum.png"
-startx = 1234
-starty = 833
-priority = 2
