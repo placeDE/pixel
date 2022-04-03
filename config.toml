@@ -39,6 +39,13 @@ startx = 169
 starty = 830
 priority = 2
 
+[[structure]]
+name = "bier_brot_mist"
+file = "images/bier_brot_mist.png"
+startx = 169
+starty = 830
+priority = 1
+
 # [[structure]]
 # name = "saeule"
 # file = "images/saeule.png"
