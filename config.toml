@@ -163,6 +163,13 @@ starty = 806
 priority = 2
 
 [[structure]]
+name = "portalDackelWest"
+file = "images/dackel_west.png"
+startx = 739
+starty = 838
+priority = 2
+
+[[structure]]
 name = "portalOrange"
 file = "images/portal_orange.png"
 startx = 756
