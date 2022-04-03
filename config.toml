@@ -135,8 +135,8 @@ starty = 843
 priority = 2
 
 [[structure]]
-name = "TU-berlin"
-file = "images/TU-berlin.png"
+name = "TU-Berlin"
+file = "images/TU-Berlin.png"
 startx = 1392
 starty = 806
 priority = 2
