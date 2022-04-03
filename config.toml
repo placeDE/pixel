@@ -254,7 +254,7 @@ priority = 2
 
 [[structure]]
 name = "neuschwanstein"
-file = "images\neuschwanstein.png"
+file = "images/neuschwanstein.png"
 startx = 1813
 starty = 831
 priority = 2
