@@ -44,7 +44,7 @@ for i in range(OFFSET_LEFT, width, WIDTH_OF_PIXEL):
             draw.line(((i, j), (i, j + HEIGHT_OF_PIXEL)), fill="black", width=1)
             textColor = (46, 204, 113)
             if pixelColor[0] < 0x80 and pixelColor[1] > 0xb0 and pixelColor[2] < 0x80:
-                textColor = "white"
+                textColor = (255, 255, 255)
             draw.text((i+3, j+3), f"Nr.{num}\nx{TOP_LEFT_X + (i//WIDTH_OF_PIXEL)}\ny{(TOP_LEFT_Y + j//HEIGHT_OF_PIXEL)}", font=font, fill=textColor)
 
 im.save(OUTPUT_FILE)
