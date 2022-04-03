@@ -136,6 +136,13 @@ starty = 843
 priority = 2
 
 [[structure]]
+name = "TU-berlin"
+file = "images/TU-berlin.png"
+startx = 1392
+starty = 806
+priority = 2
+
+[[structure]]
 name = "portalOrange"
 file = "images/portal_orange.png"
 startx = 758
