@@ -224,12 +224,12 @@ startx = 1338
 starty = 847
 priority = 1
 
-#[[structure]]
-#name = "welle"
-#file = "images/welle.png"
-#startx = 1921
-#starty = 776
-#priority = 2
+[[structure]]
+name = "welle"
+file = "images/welle.png"
+startx = 1921
+starty = 776
+priority = 2
 
 [[structure]]
 name = "bundestag"
@@ -278,4 +278,11 @@ name = "mittwochsfrosch"
 file = "images/mittwochsfrosch.png"
 startx = 629
 starty = 844
+priority = 2
+
+[[structure]]
+name = "ue-ei"
+file = "images/ue-ei.png"
+startx = 1520
+starty = 830
 priority = 2
