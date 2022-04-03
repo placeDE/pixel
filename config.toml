@@ -272,3 +272,9 @@ file = "images/invite.png"
 startx = 588
 starty = 846
 priority = 2
+
+[[structure]]
+name = "mittwochsfrosch"
+file = "images/mittwochsfrosch.png"
+startx = 629
+starty = 844
