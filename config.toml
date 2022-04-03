@@ -199,3 +199,10 @@ priority = 2
 #startx = 1921
 #starty = 776
 #priority = 2
+
+[[structure]]
+name = "bundestag"
+file = "images/bundestag.png"
+startx = 1694
+starty = 830
+priority = 2
