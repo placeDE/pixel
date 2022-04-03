@@ -282,7 +282,7 @@ priority = 2
 [[structure]]
 name = "beethoven"
 file = "images/beethoven.png"
-startx = 909
+startx = 1909
 starty = 830
 priority = 2
 
