@@ -4,7 +4,7 @@ import pathlib
 import json
 
 WIDTH = 2000
-HEIGHT = 1000
+HEIGHT = 2000
 
 colors = {
     1: (0xBE, 0x00, 0x39, 0xFF),

@@ -11,11 +11,11 @@ file = "images/Flare.png"
 startx = 1365
 starty = 869
 
-[[structure]]
-name = "lazulight"
-file = "images/Lazulight.png"
-startx = 1884
-starty = 733
+#[[structure]]
+#name = "lazulight"
+#file = "images/Lazulight.png"
+#startx = 1884
+#starty = 733
 
 [[structure]]
 name = "suisei"
@@ -54,6 +54,12 @@ startx = 200
 starty = 720
 
 [[structure]]
+name = "holostars"
+file= "images/holostars.png"
+startx = 303
+starty = 759
+
+[[structure]]
 name = "fubuhappy"
 file = "images/fubuhappy.png"
 startx = 1333
@@ -64,3 +70,9 @@ name = "shuba"
 file = "images/shuba area(w yagoo).png"
 startx = 230
 starty = 782
+
+[[structure]]
+name = "all_fubu_stuff"
+file = "images/all_fubu_stuff.png"
+startx = 1332
+starty = 1043
