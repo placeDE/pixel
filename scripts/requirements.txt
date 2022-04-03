@@ -1,2 +1,4 @@
 toml
 pillow
+gspread
+openpyxl
