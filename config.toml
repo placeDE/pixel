@@ -26,12 +26,12 @@ startx = 1333
 starty = 753
 priority = 2
 
-[[structure]]
-name = "fish-background"
-file = "images/fish-background.png"
-startx = 1333
-starty = 753
-priority = 1
+#[[structure]]
+#name = "fish-background"
+#file = "images/fish-background.png"
+#startx = 1333
+#starty = 753
+#priority = 1
 
 [[structure]]
 name = "augsburg"
