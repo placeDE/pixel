@@ -433,3 +433,10 @@ file = "images/lustigwagen.png"
 startx = 904
 starty = 1132
 priority = 2
+
+[[structure]]
+name = "eisbaer"
+file = "images/eisbaer.png"
+startx = 194
+starty = 1126
+priority = 2
