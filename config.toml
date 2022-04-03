@@ -82,3 +82,15 @@ name = "more-vshojo"
 file = "images/more-vshojo.png"
 startx = 1382
 starty = 1167
+
+[[structure]]
+name = "pixelpeko"
+file = "images/pixelpeko.png"
+startx = 1363
+starty = 986
+
+[[structure]]
+name = "olaaaa"
+file = "images/Olaaaa.png"
+startx = 1332
+starty = 1172
