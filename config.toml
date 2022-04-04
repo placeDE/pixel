@@ -490,3 +490,10 @@ file = "images/elphi.png"
 startx = 495
 starty = 1136
 priority = 2
+
+[[structure]]
+name = "poro"
+file = "images/poro.png"
+startx = 1203
+starty = 1140
+priority = 2
