@@ -5,6 +5,12 @@ ignore_colors = [
 
 version = 14
 
+[[structure]]
+name = "flare"
+file = "images/flare_updated.png"
+startx = 1365
+starty = 869
+
 #[[structure]]
 #name = "lazulight"
 #file = "images/Lazulight.png"
