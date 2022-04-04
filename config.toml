@@ -3,11 +3,11 @@ ignore_colors = [
 	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 12
+version = 14
 
 [[structure]]
 name = "flare"
-file = "images/Flare.png"
+file = "images/flarev2.png"
 startx = 1365
 starty = 869
 
