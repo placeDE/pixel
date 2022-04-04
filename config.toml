@@ -126,12 +126,6 @@ startx = 1419
 starty = 1104
 
 [[structure]]
-name = "starticon.png"
-file = "images/starticon.png"
-startx = 1028
-starty = 1971
-
-[[structure]]
 name = "mouseyhug"
 file = "images/Mouseyhug.png"
 startx = 1403
