@@ -18,6 +18,12 @@ starty = 869
 #starty = 733
 
 [[structure]]
+name = "ChibiWall"
+file = "images/ChibiWall.png"
+startx = 1454
+starty = 1063
+
+[[structure]]
 name = "suisei"
 file = "images/suisei.png"
 startx = 1450
@@ -118,12 +124,6 @@ name = "kaf_final"
 file = "images/kaf_final.png"
 startx = 1419
 starty = 1104
-
-[[structure]]
-name = "chibi_wall_akari_siro_pikamee"
-file = "images/chibi_wall_akari_siro_pikamee.png"
-startx = 1456
-starty = 1064
 
 [[structure]]
 name = "starticon.png"
