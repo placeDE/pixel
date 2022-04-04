@@ -670,3 +670,10 @@ file = "images/grundgesetz.png"
 startx = 1670
 starty = 1128
 priority = 2
+
+[[structure]]
+name = "grundgesetz"
+file = "images/grundgesetz.png"
+startx = 1872 
+starty = 1124
+priority = 2
