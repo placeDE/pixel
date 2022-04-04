@@ -619,12 +619,12 @@ startx = 1705
 starty = 1129
 priority = 2
 
-[[structure]]
-name = "goose"
-file = "images/goose.png"
-startx = 1723
-starty = 1158
-priority = 2
+# [[structure]]
+# name = "goose"
+# file = "images/goose.png"
+# startx = 1723
+# starty = 1158
+# priority = 2
 
 [[structure]]
 name = "coldmirror"
