@@ -479,7 +479,7 @@ priority = 2
 
 [[structure]]
 name = "haribo"
-file = "images/harbio.png"
+file = "images/haribo.png"
 startx = 699
 starty = 1138
 priority = 2
