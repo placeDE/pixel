@@ -12,7 +12,7 @@ if (window.top !== window.self) {
     window.addEventListener('load', () => {
         // Load the image
         const image = document.createElement("img");
-        const undotted = "https://raw.githubusercontent.com/TheGeka/pixel/main/shadowmap.png";
+        const undotted = "https://raw.githubusercontent.com/TheGeka/pixel/main/HighlightShadowmap.png";
         image.src = "https://raw.githubusercontent.com/TheGeka/pixel/main/output.png";
 
         image.onload = () => {
