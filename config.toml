@@ -600,6 +600,13 @@ starty = 1129
 priority = 2
 
 [[structure]]
+name = "coldmirror"
+file = "images/coldmirror.png"
+startx = 354
+starty = 1122
+priority = 2
+
+[[structure]]
 name = "zug_italien"
 file = "images/zug_italien.png"
 startx = 1922
