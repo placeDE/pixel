@@ -502,6 +502,13 @@ starty = 1131
 priority = 2
 
 [[structure]]
+name = "sbahn"
+file = "images/sbahn.png"
+startx = 0
+starty = 1121
+priority = 2
+
+[[structure]]
 name = "fast-food"
 file = "images/fast-food.png"
 startx = 88
@@ -536,12 +543,12 @@ priority = 2
 # starty = 817
 # priority = 2
 
-# [[structure]]
-# name = "raute"
-# file = "images/raute.png"
-# startx = 1567
-# starty = 1136
-# priority = 2
+ [[structure]]
+ name = "raute"
+ file = "images/raute.png"
+ startx = 1567
+ starty = 1136
+ priority = 2
 
 [[structure]]
 name = "bremer_stadtmusikanten"
