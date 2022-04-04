@@ -537,6 +537,13 @@ starty = 817
 priority = 2
 
 [[structure]]
+name = "raute"
+file = "images/raute.png"
+startx = 1567
+starty = 1136
+priority = 2
+
+[[structure]]
 name = "bremer_stadtmusikanten"
 file = "images/bremer_stadtmusikanten.png"
 startx = 1525
