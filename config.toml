@@ -672,13 +672,6 @@ starty = 1128
 priority = 2
 
 [[structure]]
-name = "malte"
-file = "images/malte.png"
-startx = 1872 
-starty = 1124
-priority = 2
-
-[[structure]]
 name = "banner"
 file = "images/banner.png"
 startx = 1144
@@ -690,4 +683,11 @@ name = "banner-2"
 file = "images/banner-2.png"
 startx = 1333
 starty = 1125
+priority = 2
+
+[[structure]]
+name = "malte"
+file = "images/malte.png"
+startx = 1872 
+starty = 1124
 priority = 2
