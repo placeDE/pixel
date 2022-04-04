@@ -548,7 +548,14 @@ name = "dachs"
 file = "images/dachs.png"
 startx = 969
 starty = 1122
-priority = 2 
+priority = 2
+
+[[structure]]
+name = "bte"
+file = "images/BTE.png"
+startx = 1031
+starty = 1130
+priority = 2
 
 # [[structure]]
 # name = "rub"
