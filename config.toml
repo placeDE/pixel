@@ -101,6 +101,12 @@ file = "images/Olaaaa.png"
 startx = 1332
 starty = 1172
 
+[[structure]]
+name = "rushia"
+file = "images/rushia.png"
+startx = 1396
+starty = 1065
+
 
 
 
