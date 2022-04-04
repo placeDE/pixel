@@ -715,6 +715,7 @@ priority = 2
 [[structure]]
 name = "huge1"
 file = "images/huge1.png"
+priority_file = "images/huge1_priority.png"
 startx = 1194
 starty = 1120
 priority = 2
