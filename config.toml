@@ -588,8 +588,8 @@ priority = 2
 [[structure]]
 name = "israel"
 file = "images/israel.png"
-startx = 1771
-starty = 1125
+startx = 1766
+starty = 1123
 priority = 2
 
 [[structure]]
