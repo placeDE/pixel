@@ -601,7 +601,7 @@ priority = 2
 
 [[structure]]
 name = "korea"
-file = "images/korea"
+file = "images/korea.png"
 startx = 1981
 starty = 1125
 priority = 2
@@ -612,4 +612,11 @@ name = "luigi"
 file = "images/luigi.png"
 startx = 844
 starty = 1122
+priority = 2
+
+[[structure]]
+name = "Robbe"
+file = "images/robbe.png"
+startx = 1241
+starty = 1140
 priority = 2
