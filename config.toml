@@ -5,7 +5,10 @@ ignore_colors = [
 
 # priority: higher number = higher chance of being placed
 
-version = 18
+[versions]
+"browser" = 18
+"python" = 3
+"nodejs" = 1
 
 [priorities]
 "0" = 0
@@ -198,11 +201,11 @@ priority = 2
 # priority = 3
 
 [[structure]]
-name = "wanderer"
-file = "images/wanderer.png"
-priority_file = "images/wanderer-priority.png"
+name = "wanderer-am-meer"
+file = "images/wanderer-am-meer.png"
+priority_file = "images/wanderer-am-meer-priority.png"
 startx = 1979
-starty = 831
+starty = 829
 priority = 2
 
 [[structure]]
@@ -478,6 +481,20 @@ starty = 1971
 priority = 2
 
 [[structure]]
+name = "fernsehturm"
+file = "images/fernsehturm.png"
+startx = 544
+starty = 1106
+priority = 2
+
+[[structure]]
+name = "denana"
+file = "images/denana.png"
+startx = 1705
+starty = 1129
+priority = 2
+
+[[structure]]
 name = "haribo"
 file = "images/haribo.png"
 startx = 699
@@ -489,6 +506,13 @@ name = "elphi"
 file = "images/elphi.png"
 startx = 495
 starty = 1136
+priority = 2
+
+[[structure]]
+name = "ahornblatt"
+file = "images/ahornblatt.png"
+startx = 1705
+starty = 1129
 priority = 2
 
 [[structure]]
