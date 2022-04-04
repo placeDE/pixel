@@ -59,7 +59,7 @@ if (window.top !== window.self) {
 						${loIn}% ${hiEx}%,
 						${hiEx}% ${hiEx}%,
 						${hiEx}% ${loEx}%
-					);
+					) !important;
 				}`;
 				preview.shadowRoot.appendChild(style);
 
@@ -91,7 +91,7 @@ if (window.top !== window.self) {
 				align-items: center;
 				justify-content: center;
 				height: 40px;
-				top: calc(var(--sait) + 96px);
+				top: calc(var(--sait) + 80px);
 				text-shadow: black 1px 0 10px;
 				text-align: center;
 			`;
