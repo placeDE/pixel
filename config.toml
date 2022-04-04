@@ -165,7 +165,7 @@ starty = 716
 name = "Nekko"
 file = "images/Nekko.png"
 startx = 247
-starty = 795
+starty = 794
 
 [[structure]]
 name = "kobowave"
