@@ -146,8 +146,8 @@ starty = 1064
 [[structure]]
 name = "Taskbar"
 file = "images/Taskbar.png"
-startx = 1027
-starty = 1960
+startx = 1026
+starty = 1961
 
 # [[structure]]
 #name = "anikimo_suzume_sora"
