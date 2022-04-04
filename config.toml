@@ -162,6 +162,12 @@ startx = 219
 starty = 716
 
 [[structure]]
+name = "Nekko"
+file = "images/Nekko.png"
+startx = 247
+starty = 795
+
+[[structure]]
 name = "kobowave"
 file = "images/kobo.png"
 startx = 1892
