@@ -131,8 +131,11 @@ file = "images/starticon.png"
 startx = 1028
 starty = 1971
 
-
-
+[[structure]]
+name = "Niji South"
+file = "images/NijiSouth.png"
+startx = 1501
+starty = 1064
 
 
 
