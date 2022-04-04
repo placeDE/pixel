@@ -686,6 +686,13 @@ starty = 1126
 priority = 2
 
 [[structure]]
+name = "Rainbow_Six_Pixel_Perfect"
+file = "images/Rainbow_Six_Pixel_Perfect.png"
+startx = 236
+starty = 1147
+priority = 2
+
+[[structure]]
 name = "grundgesetz"
 file = "images/grundgesetz.png"
 startx = 1670
