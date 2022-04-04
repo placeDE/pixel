@@ -48,6 +48,12 @@ startx = 1332
 starty = 902
 
 [[structure]]
+name = "Mascots Near Yagoo"
+file = "images/MascotsNearYagoo.png"
+startx = 1404
+starty = 902
+
+[[structure]]
 name = "main area"
 file = "images/logo area.png"
 startx = 200
