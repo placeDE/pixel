@@ -55,6 +55,13 @@ starty = 830
 priority = 2
 
 [[structure]]
+name = "omori"
+file = "images/omori.png"
+startx = 1407
+starty = 1137
+priority = 2
+
+[[structure]]
 name = "bier_brot"
 file = "images/bier_brot.png"
 priority_file = "images/bier_brot-priority.png"
