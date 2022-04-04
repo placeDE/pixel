@@ -201,11 +201,11 @@ priority = 2
 # priority = 3
 
 [[structure]]
-name = "wanderer"
-file = "images/wanderer.png"
-priority_file = "images/wanderer-priority.png"
+name = "wanderer-am-meer"
+file = "images/wanderer-am-meer.png"
+priority_file = "images/wanderer-am-meer-priority.png"
 startx = 1979
-starty = 831
+starty = 829
 priority = 2
 
 [[structure]]
