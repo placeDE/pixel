@@ -125,6 +125,16 @@ file = "images/chibi_wall_akari_siro_pikamee.png"
 startx = 1456
 starty = 1064
 
+[[structure]]
+name = "starticon.png"
+file = "images/starticon.png"
+startx = 1028
+starty = 1971
+
+
+
+
+
 
 
 # Add everything above this!!!
