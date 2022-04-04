@@ -477,3 +477,9 @@ startx = 389
 starty = 1971
 priority = 2
 
+[[structure]]
+name = "elphi"
+file = "images/elphi.png"
+startx = 1699
+starty = 1136
+priority = 2
