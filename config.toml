@@ -445,7 +445,7 @@ priority = 2
 name = "auto"
 file = "images/auto.png"
 startx = 775
-starty = 1125
+starty = 1124
 priority = 2
 
 [[structure]]
