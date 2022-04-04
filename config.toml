@@ -504,7 +504,7 @@ priority = 2
 [[structure]]
 name = "fast-food"
 file = "images/fast-food.png"
-startx = 74
+startx = 88
 starty = 1129
 priority = 2
 
