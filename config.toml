@@ -556,3 +556,10 @@ file = "images/dankpods.png"
 startx = 1403
 starty = 831
 priority = 2
+
+[[structure]]
+name = "jaegermeister_flasche"
+file = "images/jaegermeister_flasche.png"
+startx = 173
+starty = 1130
+priority = 2
