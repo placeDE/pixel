@@ -473,12 +473,12 @@ startx = 1575
 starty = 832
 priority = 2
 
-[[structure]]
-name = "start"
-file = "images/start.png"
-startx = 389
-starty = 1971
-priority = 2
+#[[structure]]
+#name = "start"
+#file = "images/start.png"
+#startx = 389
+#starty = 1971
+#priority = 2
 
 [[structure]]
 name = "fernsehturm"
@@ -487,12 +487,12 @@ startx = 544
 starty = 1106
 priority = 2
 
-[[structure]]
-name = "denana"
-file = "images/denana.png"
-startx = 1705
-starty = 1129
-priority = 2
+# [[structure]]
+# name = "denana"
+# file = "images/denana.png"
+# startx = 1705
+# starty = 1129
+# priority = 2
 
 [[structure]]
 name = "gg"
@@ -501,10 +501,17 @@ startx = 245
 starty = 1131
 priority = 2
 
+#[[structure]]
+#name = "sbahn"
+#file = "images/sbahn.png"
+#startx = 0
+#starty = 1121
+#priority = 2
+
 [[structure]]
 name = "fast-food"
 file = "images/fast-food.png"
-startx = 74
+startx = 88
 starty = 1129
 priority = 2
 
@@ -529,16 +536,60 @@ startx = 988
 starty = 1139
 priority = 2 
 
-[[structure]]
-name = "rub"
-file = "images/rub.png"
-startx = 1412
-starty = 817
-priority = 2
+# [[structure]]
+# name = "rub"
+# file = "images/rub.png"
+# startx = 1412
+# starty = 817
+# priority = 2
+
+ [[structure]]
+ name = "raute"
+ file = "images/raute.png"
+ startx = 1567
+ starty = 1136
+ priority = 2
 
 [[structure]]
 name = "bremer_stadtmusikanten"
 file = "images/bremer_stadtmusikanten.png"
 startx = 1525
 starty = 1134
+priority = 2
+
+[[structure]]
+name = "dankpods"
+file = "images/dankpods.png"
+startx = 1403
+starty = 831
+priority = 2
+
+[[structure]]
+name = "jaegermeister_flasche"
+file = "images/jaegermeister_flasche.png"
+startx = 173
+starty = 1130
+priority = 2
+
+[[structure]]
+name = "ahorn"
+file = "images/ahorn.png"
+startx = 1705
+starty = 1129
+priority = 2
+
+[[structure]]
+name = "koelner_dom"
+file = "images/koelner_dom.png"
+startx = 564
+starty = 1124
+priority = 2
+
+
+[[structure]]
+#cars gelb auto italien
+name = "luigi"
+file = "images/luigi.png"
+startx = 844
+starty = 1122
 priority = 2
