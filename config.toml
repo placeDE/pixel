@@ -563,3 +563,10 @@ file = "images/jaegermeister_flasche.png"
 startx = 173
 starty = 1130
 priority = 2
+
+[[structure]]
+name = "ahorn"
+file = "images/ahorn.png"
+startx = 1705
+starty = 1129
+priority = 2
