@@ -491,7 +491,7 @@ priority = 2
 name = "start"
 file = "images/start.png"
 startx = 389
-starty = 1973
+starty = 1971
 priority = 2
 
 [[structure]]
