@@ -148,10 +148,3 @@ name = "Taskbar"
 file = "images/Taskbar.png"
 startx = 1028
 starty = 1972
-
-# Add everything above this!!!
-[[structure]]
-name = "template_fixes.png"
-file = "images/template_fixes.png"
-startx = 0
-starty = 0
