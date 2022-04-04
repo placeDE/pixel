@@ -577,3 +577,10 @@ file = "images/ahorn.png"
 startx = 1705
 starty = 1129
 priority = 2
+
+[[structure]]
+name = "etr-zug_bergtunnel"
+file = "images/etr-zug_bergtunnel.png"
+startx = 1922
+starty = 1127
+priority = 2
