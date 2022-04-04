@@ -541,4 +541,10 @@ name = "bremer_stadtmusikanten"
 file = "images/bremer_stadtmusikanten.png"
 startx = 1525
 starty = 1134
+
+[[structure]]
+name = "dankpods"
+file = "images/dankpods.png"
+startx = 1403
+starty = 831
 priority = 2
