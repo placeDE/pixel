@@ -572,6 +572,13 @@ starty = 1130
 priority = 2
 
 [[structure]]
+name = "israel"
+file = "images/israel.png"
+startx = 1771
+starty = 1125
+priority = 2
+
+[[structure]]
 name = "ahorn"
 file = "images/ahorn.png"
 startx = 1705
