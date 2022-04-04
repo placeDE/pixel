@@ -523,6 +523,13 @@ starty = 1138
 priority = 2
 
 [[structure]]
+name = "pfandflasche"
+file = "images/pfandflasche.png"
+startx = 744
+starty = 1131
+priority = 2
+
+[[structure]]
 name = "elphi"
 file = "images/elphi.png"
 startx = 495
