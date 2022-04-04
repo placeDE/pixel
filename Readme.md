@@ -11,7 +11,8 @@ Das Bild muss 1:1 das Pixelart sein nur aus den vorgegebenen Farben von Reddit b
 ```toml
 [[structure]]
 name = "beispiel"
-file = "images/beispiel.png"
+file = "images/art/beispiel.png"
+# optional: priority_file = "images/priorities/beispiel-priority.png"
 startx = 1234 #x-Koordinate
 starty = 5678 #y-Koordinate
 priority = 2
