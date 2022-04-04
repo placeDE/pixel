@@ -54,6 +54,12 @@ startx = 1404
 starty = 902
 
 [[structure]]
+name = "Council"
+file = "images/Council.png"
+startx = 233
+starty = 686
+
+[[structure]]
 name = "main area"
 file = "images/logo area.png"
 startx = 200
