@@ -137,7 +137,10 @@ file = "images/Mouseyhug.png"
 startx = 1403
 starty = 959
 
-
+name = "Niji South"
+file = "images/NijiSouth.png"
+startx = 1501
+starty = 1064
 
 
 
