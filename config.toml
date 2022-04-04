@@ -593,6 +593,12 @@ starty = 1129
 priority = 2
 
 [[structure]]
+name = "zug_italien"
+file = "images/zug_italien.png"
+startx = 1922
+starty = 1124
+priority = 2
+
 name = "koelner_dom"
 file = "images/koelner_dom.png"
 startx = 564
