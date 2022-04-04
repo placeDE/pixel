@@ -585,12 +585,12 @@ startx = 564
 starty = 1124
 priority = 2
 
-[[structure]]
-name = "korea"
-file = "images/korea"
-startx = 1981
-starty = 1125
-priority = 2
+#[[structure]]
+#name = "korea"
+#file = "images/korea"
+#startx = 1981
+#starty = 1125
+#priority = 2
 
 [[structure]]
 #cars gelb auto italien
