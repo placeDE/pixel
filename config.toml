@@ -670,3 +670,17 @@ file = "images/grundgesetz.png"
 startx = 1670
 starty = 1128
 priority = 2
+
+[[structure]]
+name = "wappen1"
+file = "images/wappen1.png"
+startx = 1144 #x-Koordinate
+starty = 1122 #y-Koordinate
+priority = 2
+
+[[structure]]
+name = "wappen2"
+file = "images/wappen2.png"
+startx = 1333 #x-Koordinate
+starty = 1125 #y-Koordinate
+priority = 2
