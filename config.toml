@@ -137,6 +137,7 @@ file = "images/Mouseyhug.png"
 startx = 1403
 starty = 959
 
+[[structure]]
 name = "Niji South"
 file = "images/NijiSouth.png"
 startx = 1501
