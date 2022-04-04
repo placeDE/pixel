@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Highlight Tool
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      0.8
 // @description  try to take over the canvas!
 // @author       oralekin, LittleEndu, ekgame, Wieku, DeadRote, Thank you Osu Server for the Highlight feature - Senpoii
 // @match        https://hot-potato.reddit.com/embed*
