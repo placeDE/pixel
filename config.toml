@@ -107,7 +107,11 @@ file = "images/Olaaaa.png"
 startx = 1332
 starty = 1172
 
-
+[[structure]]
+name = "kaf_final"
+file = "images/kaf_final.png"
+startx = 1419
+starty = 1104
 
 
 
