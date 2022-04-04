@@ -557,6 +557,13 @@ starty = 1136
 priority = 2
 
 [[structure]]
+name = "drunkbanana"
+file = "images/drunkbanana.png"
+startx = 1016
+starty = 1148
+priority = 2
+
+[[structure]]
 name = "dachs"
 file = "images/dachs.png"
 startx = 969
