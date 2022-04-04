@@ -148,3 +148,9 @@ name = "Taskbar"
 file = "images/Taskbar.png"
 startx = 1028
 starty = 1972
+
+[[structure]]
+name = "anikimo_suzume_sora"
+file = "images/anikomoSuzumeSoraPixels.png"
+startx = 1327
+starty = 1110
