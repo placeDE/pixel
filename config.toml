@@ -11,11 +11,11 @@ file = "images/Flare.png"
 startx = 1365
 starty = 869
 
-#[[structure]]
-#name = "lazulight"
-#file = "images/Lazulight.png"
-#startx = 1884
-#starty = 733
+[[structure]]
+name = "NijiEast"
+file = "images/nijisanji-east.png"
+startx = 1883
+starty = 734
 
 [[structure]]
 name = "ChibiWall"
@@ -40,12 +40,6 @@ starty = 721
 #file = "images/vshojo.png"
 #startx = 163
 #starty = 747
-
-#[[structure]]
-#name = "sanbaka + others"
-#file = "images/Sanbaka + Others.png"
-#startx = 240
-#starty = 737
 
 [[structure]]
 name = "Yagoo"
