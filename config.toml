@@ -24,6 +24,13 @@ starty = 1122
 priority = 1
 
 [[structure]]
+name = "flagge_sued_west"
+file = "images/flagge_sued_west.png"
+startx = 0
+starty = 1133
+priority = 1
+
+[[structure]]
 name = "rplacede_schriftzug"
 file = "images/rplacede_schriftzug.png"
 priority_file = "images/rplacede_schriftzug-priority.png"
@@ -407,14 +414,6 @@ file = "images/arte_tv.png"
 startx = 1129
 starty = 825
 priority = 2
-
-
-# [[structure]]
-# name = "flagge_sued"
-# file = "images/flagge_sued.png"
-# startx = 0
-# starty = 1121
-# priority = 1
 
 [[structure]]
 name = "blaubaer"
