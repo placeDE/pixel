@@ -532,8 +532,8 @@ priority = 2
 [[structure]]
 name = "dachs"
 file = "images/dachs.png"
-startx = 988
-starty = 1139
+startx = 969
+starty = 1122
 priority = 2 
 
 # [[structure]]
