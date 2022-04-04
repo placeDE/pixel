@@ -17,25 +17,45 @@ if (window.top !== window.self) {
 		const container = canvas.shadowRoot.querySelector(".container");
 		function addImage(src, posX, posY) {
 			let img = document.createElement("img");
-			const canvas = document.createElement("canvas");
-			container.appendChild(canvas);
+			const hint = document.createElement("canvas");
+			const plan = document.createElement("canvas");
 			img.onload = () => {
 				const width = img.width;
 				const height = img.height;
-				canvas.setAttribute("id", "templateOverlay");
-				canvas.width = width * 3;
-				canvas.height = height * 3;
-				canvas.style = `position: absolute; left: ${posX}px; top: ${posY}px; image-rendering: pixelated; width: ${width}px; height: ${height}px;`;
-				const ctx = canvas.getContext("2d");
-				ctx.globalAlpha = opacity;
+				hint.setAttribute("id", "hintOverlay");
+				hint.width = width * 3;
+				hint.height = height * 3;
+				hint.style = `
+					position: absolute;
+					left: ${posX}px;
+					top: ${posY}px;
+					image-rendering: pixelated;
+					width: ${width}px;
+					height: ${height}px;`;
+				const t_ctx = hint.getContext("2d");
+				t_ctx.globalAlpha = opacity;
 				for (let y = 0; y < height; y++) {
 					for (let x = 0; x < width; x++) {
-						ctx.drawImage(img, x, y, 1, 1, x * 3 + 1, y * 3 + 1, 1, 1);
+						t_ctx.drawImage(img, x, y, 1, 1, x * 3 + 1, y * 3 + 1, 1, 1);
 					}
 				}
+
+				plan.setAttribute("id", "planOverlay");
+				plan.width = width;
+				plan.height = height;
+				plan.style = `
+					position: absolute;
+					left: ${posX}px;
+					top: ${posY}px;
+					image-rendering: pixelated;
+					width: ${width}px;
+					height: ${height}px;`;
+				const i_ctx = plan.getContext("2d");
+				i_ctx.globalAlpha = opacity;
+				i_ctx.drawImage(img, 0, 0);
 			};
 			img.src = src;
-			return canvas;
+			return [hint, plan];
 		}
 
 		const waitForPreview = setInterval(() => {
@@ -78,7 +98,7 @@ if (window.top !== window.self) {
 		}
 		// I would like to personally thank the osu team for inspiring (read: letting me copy paste) this code
 		// free software :P
-		function addCheckbox(obj) {
+		function addCheckbox(y, id, label, checked, onclick) {
 			let visCheckbox = document.createElement("div");
 
 			// designed to be below the osu team's slider
@@ -91,36 +111,47 @@ if (window.top !== window.self) {
 				align-items: center;
 				justify-content: center;
 				height: 40px;
-				top: calc(var(--sait) + 80px);
+				top: calc(var(--sait) + ${y}px);
 				text-shadow: black 1px 0 10px;
 				text-align: center;
 			`;
 
 			let visText = document.createElement("div");
-			visText.innerText = "Show template";
+			visText.innerText = label;
 			visCheckbox.appendChild(visText);
 			visText.style = "background-color: rgba(0, 0, 0, 0.5)";
 
 			let visInput = document.createElement("input");
 			visInput.setAttribute("type", "checkbox");
-			visInput.setAttribute("id", "visCheckbox");
+			visInput.setAttribute("id", id);
 			visInput.setAttribute("name", "checkbox");
-			visInput.onclick = () => {
-				container.querySelector("#templateOverlay").style.display = visInput.checked ? "block" : "none";
-			};
-			visInput.checked = true;
+			visInput.checked = checked;
+			visInput.onclick = () => onclick(visInput.checked);
 			visCheckbox.appendChild(visInput);
 
 			let topControls = document.querySelector("mona-lisa-embed").shadowRoot.querySelector(".layout .top-controls");
 			insertAfter(visCheckbox, topControls);
 		}
 
-		let img = addImage("https://raw.githubusercontent.com/TheGeka/pixel/main/output.png", 0, 0);
+		let [hint, plan] = addImage("https://raw.githubusercontent.com/TheGeka/pixel/main/output.png", 0, 0);
 
 		function loadRegions() {
-			let exists = layout.contains(layout.querySelector("#visCheckbox"));
-			if (!exists) {
-				addCheckbox(img);
+			const hintId = "visHintCheckbox";
+			const planId = "visPlanCheckbox";
+			if (!layout.contains(layout.querySelector(`#${hintId}`))) {
+				const toggleOverlay = checked => {
+					container.querySelector("#hintOverlay").style.display = checked ? "block" : "none";
+				};
+				addCheckbox(80, hintId, "Show hint", true, toggleOverlay);
+				container.appendChild(hint);
+			}
+			if (!layout.contains(layout.querySelector(`#${planId}`))) {
+				const changeOverlay = checked => {
+					container.querySelector("#planOverlay").style.display = checked ? "block" : "none";
+				};
+				addCheckbox(112, planId, "Preview full plans", false, changeOverlay);
+				container.appendChild(plan);
+        changeOverlay(false);
 			}
 		}
 	}, false);
