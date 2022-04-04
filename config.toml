@@ -490,3 +490,10 @@ priority = 2
 # startx = 1699
 # starty = 1136
 # priority = 2
+
+[[structure]]
+name = "dachs"
+file = "images/dachs.png"
+startx = 988
+starty = 1139
+priority = 2
