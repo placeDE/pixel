@@ -62,8 +62,8 @@ starty = 758
 [[structure]]
 name = "fubuhappy"
 file = "images/FubuHappy.png"
-startx = 1333
-starty = 870
+startx = 1332
+starty = 869
 
 [[structure]]
 name = "shuba"
