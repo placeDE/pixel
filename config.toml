@@ -108,6 +108,12 @@ startx = 1332
 starty = 1172
 
 [[structure]]
+name = "Watamelon"
+file = "images/Watame_final.png"
+startx = 1391
+starty = 1086
+
+[[structure]]
 name = "kaf_final"
 file = "images/kaf_final.png"
 startx = 1419
