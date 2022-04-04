@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hololive combo
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Spread the love
 // @author       oralekin
 // @match        https://hot-potato.reddit.com/embed*
