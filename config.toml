@@ -18,6 +18,12 @@ startx = 1883
 starty = 734
 
 [[structure]]
+name = "ChibiWall"
+file = "images/ChibiWall.png"
+startx = 1454
+starty = 1063
+
+[[structure]]
 name = "suisei"
 file = "images/suisei.png"
 startx = 1450
@@ -61,7 +67,7 @@ starty = 758
 
 [[structure]]
 name = "fubuhappy"
-file = "images/fubuhappy.png"
+file = "images/FubuHappy.png"
 startx = 1333
 starty = 870
 
@@ -92,7 +98,7 @@ starty = 1068
 [[structure]]
 name = "more-vshojo"
 file = "images/more-vshojo.png"
-startx = 1382
+startx = 1415
 starty = 1168
 
 [[structure]]
@@ -120,22 +126,28 @@ startx = 1419
 starty = 1104
 
 [[structure]]
-name = "chibi_wall_akari_siro_pikamee"
-file = "images/chibi_wall_akari_siro_pikamee.png"
-startx = 1456
-starty = 1064
-
-[[structure]]
 name = "starticon.png"
 file = "images/starticon.png"
 startx = 1028
 starty = 1971
 
+[[structure]]
+name = "mouseyhug"
+file = "images/Mouseyhug.png"
+startx = 1403
+starty = 959
 
+[[structure]]
+name = "Niji South"
+file = "images/NijiSouth.png"
+startx = 1501
+starty = 1064
 
-
-
-
+[[structure]]
+name = "Taskbar"
+file = "images/Taskbar.png"
+startx = 1028
+starty = 1972
 
 # Add everything above this!!!
 [[structure]]
