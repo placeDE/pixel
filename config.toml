@@ -718,3 +718,17 @@ file = "images/huge1.png"
 startx = 1194
 starty = 1120
 priority = 2
+
+[[structure]]
+name = "storch"
+file = "images/storch.png"
+startx = 1153
+starty = 1137
+priority = 2
+
+[[structure]]
+name = "spelunky"
+file = "images/spelunky.png"
+startx = 1974
+starty = 1120
+priority = 2
