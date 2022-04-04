@@ -64,8 +64,8 @@ priority = 2
 [[structure]]
 name = "omori"
 file = "images/omori.png"
-startx = 1407
-starty = 1137
+startx = 1658
+starty = 1140
 priority = 2
 
 [[structure]]
@@ -82,6 +82,13 @@ file = "images/mist.png"
 startx = 217
 starty = 833
 priority = 1
+
+[[structure]]
+name = "pootaato"
+file = "images/pootaato.png"
+startx = 115
+starty = 1123
+priority = 2
 
 # [[structure]]
 # name = "saeule"
@@ -103,7 +110,7 @@ name = "autobahn"
 file = "images/autobahn.png"
 startx = 539
 starty = 838
-priority = 1
+priority = 2
 
 [[structure]]
 name = "verspaetung"
@@ -462,7 +469,7 @@ name = "auto"
 file = "images/auto.png"
 startx = 775
 starty = 1124
-priority = 2
+priority = 1
 
 [[structure]]
 name = "rvnx"
@@ -490,7 +497,7 @@ priority = 2
 name = "start"
 file = "images/start.png"
 startx = 389
-starty = 1971
+starty = 1972
 priority = 2
 
 [[structure]]
@@ -564,6 +571,13 @@ starty = 1148
 priority = 2
 
 [[structure]]
+name = "jfour"
+file = "images/jfour_v2.png"
+startx = 401
+starty = 1119
+priority = 2
+
+[[structure]]
 name = "dachs"
 file = "images/dachs.png"
 startx = 969
@@ -625,6 +639,13 @@ file = "images/ahorn.png"
 startx = 1705
 starty = 1129
 priority = 2
+
+# [[structure]]
+# name = "goose"
+# file = "images/goose.png"
+# startx = 1723
+# starty = 1158
+# priority = 2
 
 [[structure]]
 name = "coldmirror"
@@ -701,7 +722,7 @@ priority = 2
 [[structure]]
 name = "grundgesetz"
 file = "images/grundgesetz.png"
-startx = 1670
+startx = 1680
 starty = 1128
 priority = 2
 
@@ -732,6 +753,20 @@ name = "storch"
 file = "images/storch.png"
 startx = 1153
 starty = 1137
+priority = 2
+
+[[structure]]
+name = "cussy"
+file = "images/cussy.png"
+startx = 809
+starty = 1161
+priority = 1
+
+[[structure]]
+name = "hoss"
+file = "images/hoss.png"
+startx = 147
+starty = 1122
 priority = 2
 
 [[structure]]
