@@ -529,12 +529,12 @@ startx = 988
 starty = 1139
 priority = 2 
 
-[[structure]]
-name = "rub"
-file = "images/rub.png"
-startx = 1412
-starty = 817
-priority = 2
+# [[structure]]
+# name = "rub"
+# file = "images/rub.png"
+# startx = 1412
+# starty = 817
+# priority = 2
 
 # [[structure]]
 # name = "raute"
