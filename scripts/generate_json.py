@@ -2,6 +2,7 @@ import argparse
 import pathlib
 import json
 import toml
+import os
 from PIL import Image
 
 COLOR_MAPPINGS = {
@@ -119,4 +120,6 @@ if __name__ == "__main__":
         data["structures"][name] = create_structure(file, priority_file, struct["startx"], struct["starty"], struct["priority"], ignore_colors, used_pixels)
     
     with open(args.output, "w") as f:
+        f.write(json.dumps(data, separators=(',', ':')))
+    with open(os.path.splitext(args.output)[0]+"_pretty.json", "w") as f:
         f.write(json.dumps(data, indent=4))
