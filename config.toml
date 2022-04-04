@@ -502,6 +502,13 @@ starty = 1131
 priority = 2
 
 [[structure]]
+name = "fast-food"
+file = "images/fast-food.png"
+startx = 74
+starty = 1129
+priority = 2
+
+[[structure]]
 name = "haribo"
 file = "images/haribo.png"
 startx = 699
@@ -522,3 +529,9 @@ startx = 988
 starty = 1139
 priority = 2 
 
+[[structure]]
+name = "bremer_stadtmusikanten"
+file = "images/bremer_stadtmusikanten.png"
+startx = 1525
+starty = 1134
+priority = 2
