@@ -184,3 +184,9 @@ name = "MarineAhoy"
 file = "images/MarineAhoy.png"
 startx = 1381
 starty = 1044
+
+[[structure]]
+name = "watasheep"
+file = "images/watasheep.png"
+startx = 1290
+starty = 1063
