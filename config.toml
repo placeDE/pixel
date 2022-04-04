@@ -490,8 +490,8 @@ priority = 2
 [[structure]]
 name = "start"
 file = "images/start.png"
-startx = 390
-starty = 1974
+startx = 389
+starty = 1973
 priority = 2
 
 [[structure]]
