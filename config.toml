@@ -637,6 +637,13 @@ starty = 1140
 priority = 2
 
 [[structure]]
+name = "ggPlaceDe"
+file = "images/ggPlaceDe.png"
+startx = 1935
+starty = 1130
+priority = 2
+
+[[structure]]
 name = "Krone"
 file = "images/krone.png"
 startx = 767
