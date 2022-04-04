@@ -38,5 +38,4 @@ jobs:
 
       - uses: EndBug/add-and-commit@v7
         with:
-          add: sso/aws/terraform/environments/adm/generated_attributes.tf
           message: "Add generated pixel.json [Generate]"
