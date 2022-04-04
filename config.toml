@@ -495,6 +495,13 @@ starty = 1129
 priority = 2
 
 [[structure]]
+name = "gg"
+file = "images/gg.png"
+startx = 245
+starty = 1131
+priority = 2
+
+[[structure]]
 name = "haribo"
 file = "images/haribo.png"
 startx = 699
