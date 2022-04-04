@@ -172,3 +172,9 @@ name = "kobowave"
 file = "images/kobo.png"
 startx = 1892
 starty = 697
+
+[[structure]]
+name = "MarineAhoy"
+file = "images/MarineAhoy.png"
+startx = 1381
+starty = 1044
