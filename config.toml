@@ -11,11 +11,11 @@ file = "images/flare_updated.png"
 startx = 1365
 starty = 869
 
-#[[structure]]
-#name = "lazulight"
-#file = "images/Lazulight.png"
-#startx = 1884
-#starty = 733
+[[structure]]
+name = "NijiEast"
+file = "images/nijisanji-east.png"
+startx = 1883
+starty = 734
 
 [[structure]]
 name = "ChibiWall"
@@ -41,17 +41,11 @@ starty = 721
 #startx = 163
 #starty = 747
 
-#[[structure]]
-#name = "sanbaka + others"
-#file = "images/Sanbaka + Others.png"
-#startx = 240
-#starty = 737
-
 [[structure]]
-name = "yagoo"
-file = "images/Yagoo3.png"
+name = "Yagoo"
+file = "images/Yagoo.png"
 startx = 1332
-starty = 900
+starty = 902
 
 [[structure]]
 name = "main area"
