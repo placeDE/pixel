@@ -18,378 +18,378 @@ ignore_colors = [
 
 [[structure]]
 name = "rplacede_schriftzug"
-file = "images/rplacede_schriftzug.png"
-priority_file = "images/rplacede_schriftzug-priority.png"
+file = "images/art/rplacede_schriftzug.png"
+priority_file = "images/priorities/rplacede_schriftzug-priority.png"
 startx = 0
 starty = 856
 priority = 3
 
 [[structure]]
 name = "maus"
-file = "images/maus.png"
-priority_file = "images/maus-priority.png"
+file = "images/art/maus.png"
+priority_file = "images/priorities/maus-priority.png"
 startx = 45
 starty = 832
 priority = 2
 
 [[structure]]
 name = "sprich_deutsch"
-file = "images/sprich_deutsch_schriftzug.png"
+file = "images/art/sprich_deutsch_schriftzug.png"
 startx = 113
 starty = 831
 priority = 2
 
 [[structure]]
 name = "adler"
-file = "images/adler.png"
-priority_file = "images/adler-priority.png"
+file = "images/art/adler.png"
+priority_file = "images/priorities/adler-priority.png"
 startx = 254
 starty = 830
 priority = 2
 
 [[structure]]
 name = "bier_brot"
-file = "images/bier_brot.png"
-priority_file = "images/bier_brot-priority.png"
+file = "images/art/bier_brot.png"
+priority_file = "images/priorities/bier_brot-priority.png"
 startx = 169
 starty = 830
 priority = 2
 
 [[structure]]
 name = "mist"
-file = "images/mist.png"
+file = "images/art/mist.png"
 startx = 217
 starty = 833
 priority = 1
 
 # [[structure]]
 # name = "saeule"
-# file = "images/saeule.png"
+# file = "images/art/saeule.png"
 # startx = 431
 # starty = 829
 # priority = 0
 
 [[structure]]
 name = "eu-taube"
-file = "images/eu-taube.png"
-priority_file = "images/eu-taube-priority.png"
+file = "images/art/eu-taube.png"
+priority_file = "images/priorities/eu-taube-priority.png"
 startx = 388
 starty = 833
 priority = 2
 
 [[structure]]
 name = "autobahn"
-file = "images/autobahn.png"
+file = "images/art/autobahn.png"
 startx = 539
 starty = 838
 priority = 2
 
 [[structure]]
 name = "verspaetung"
-file = "images/verspaetung.png"
+file = "images/art/verspaetung.png"
 startx = 300
 starty = 847
 priority = 2
 
 [[structure]]
 name = "ice"
-file = "images/ice.png"
-priority_file = "images/ice-priority.png"
+file = "images/art/ice.png"
+priority_file = "images/priorities/ice-priority.png"
 startx = 326
 starty = 849
 priority = 2
 
 [[structure]]
 name = "brandenburger_tor"
-file = "images/brandenburger_tor.png"
-priority_file = "images/brandenburger_tor-priority.png"
+file = "images/art/brandenburger_tor.png"
+priority_file = "images/priorities/brandenburger_tor-priority.png"
 startx = 676
 starty = 828
 priority = 2
 
 [[structure]]
 name = "no_internet"
-file = "images/no_internet.png"
-priority_file = "images/no_internet-priority.png"
+file = "images/art/no_internet.png"
+priority_file = "images/priorities/no_internet-priority.png"
 startx = 323
 starty = 844
 priority = 2
 
 [[structure]]
 name = "blume"
-file = "images/blume.png"
+file = "images/art/blume.png"
 startx = 503
 starty = 836
 priority = 2
 
 [[structure]]
 name = "sandmann"
-file = "images/sandmann.png"
+file = "images/art/sandmann.png"
 startx = 472
 starty = 831
 priority = 2
 
 [[structure]]
 name = "ente"
-file = "images/ente.png"
+file = "images/art/ente.png"
 startx = 666
 starty = 850
 priority = 2
 
 [[structure]]
 name = "doenermann"
-file = "images/doenermann2.png"
-priority_file = "images/doenermann2-priority.png"
+file = "images/art/doenermann2.png"
+priority_file = "images/priorities/doenermann2-priority.png"
 startx = 1337
 starty = 830
 priority = 2
 
 [[structure]]
 name = "tgv"
-file = "images/tgv.png"
+file = "images/art/tgv.png"
 startx = 434
 starty = 843
 priority = 2
 
 [[structure]]
 name = "drei_fragezeichen"
-file = "images/drei_fragezeichen.png"
+file = "images/art/drei_fragezeichen.png"
 startx = 435
 starty = 830
 priority = 2
 
 [[structure]]
 name = "TU-Berlin"
-file = "images/TU-Berlin.png"
+file = "images/art/TU-Berlin.png"
 startx = 1392
 starty = 806
 priority = 2
 
 [[structure]]
 name = "portalDackelWest"
-file = "images/dackel_west.png"
+file = "images/art/dackel_west.png"
 startx = 739
 starty = 838
 priority = 2
 
 [[structure]]
 name = "portalDackelOst"
-file = "images/dackel_ost.png"
+file = "images/art/dackel_ost.png"
 startx = 1064
 starty = 848
 priority = 2
 
 [[structure]]
 name = "portalOrange"
-file = "images/portal_orange.png"
+file = "images/art/portal_orange.png"
 startx = 756
 starty = 828
 priority = 2
 
 [[structure]]
 name = "portalBlau"
-file = "images/portal_blau.png"
+file = "images/art/portal_blau.png"
 startx = 1054
 starty = 826
 priority = 2
 
 # [[structure]]
 # name = "duden"
-# file = "images/duden.png"
+# file = "images/art/duden.png"
 # startx = 1700
 # starty = 831
 # priority = 3
 
 [[structure]]
 name = "wanderer-am-meer"
-file = "images/wanderer-am-meer.png"
-priority_file = "images/wanderer-am-meer-priority.png"
+file = "images/art/wanderer-am-meer.png"
+priority_file = "images/priorities/wanderer-am-meer-priority.png"
 startx = 1979
 starty = 829
 priority = 2
 
 [[structure]]
 name = "amogus"
-file = "images/amogus.png"
+file = "images/art/amogus.png"
 startx = 1780
 starty = 781
 priority = 1
 
 # [[structure]]
 # name = "nettHier"
-# file = "images/nett_hier.png"
+# file = "images/art/nett_hier.png"
 # startx = 1527
 # starty = 833
 # priority = 2
 
 [[structure]]
 name = "tigerente"
-file = "images/tigerente_frosch_ukraine.png"
-priority_file = "images/tigerente_frosch_ukraine-priority.png"
+file = "images/art/tigerente_frosch_ukraine.png"
+priority_file = "images/priorities/tigerente_frosch_ukraine-priority.png"
 startx = 1404
 starty = 831
 priority = 2
 
 [[structure]]
 name = "animal_crossing"
-file = "images/animal_crossing.png"
+file = "images/art/animal_crossing.png"
 startx = 1412
 starty = 861
 priority = 2
 
 [[structure]]
 name = "schnellfahren"
-file = "images/schnellfahren.png"
+file = "images/art/schnellfahren.png"
 startx = 566
 starty = 846
 priority = 2
 
 #[[structure]]
 ##name = "autobahn+schild"
-##file = "images/autobahn_und_schild.png"
+##file = "images/art/autobahn_und_schild.png"
 ##startx = 1094
 ##starty = 828
 ##priority = 2
 
 #[[structure]]
 #name = "arte"
-#file = "images/arte.png"
+#file = "images/art/arte.png"
 #startx = 1126
 #starty = 838
 #priority = 2
 
 # [[structure]]
 # name = "arte2"
-# file = "images/arte2.png"
+# file = "images/art/arte2.png"
 # startx = 1127
 # starty = 830
 # priority = 2
 
 [[structure]]
 name = "baum"
-file = "images/baum.png"
+file = "images/art/baum.png"
 startx = 1234
 starty = 833
 priority = 2
 
 [[structure]]
 name = "erdbeermarmeladenbrotMitHonig"
-file = "images/marmeladenbrot.png"
+file = "images/art/marmeladenbrot.png"
 startx = 1338
 starty = 847
 priority = 1
 
 [[structure]]
 name = "welle"
-file = "images/welle.png"
+file = "images/art/welle.png"
 startx = 1921
 starty = 776
 priority = 2
 
 [[structure]]
 name = "bundestag"
-file = "images/bundestag.png"
-priority_file = "images/bundestag-priority.png"
+file = "images/art/bundestag.png"
+priority_file = "images/priorities/bundestag-priority.png"
 startx = 1694
 starty = 830
 priority = 2
 
 [[structure]]
 name = "einstein"
-file = "images/Einstein.png"
-priority_file = "images/Einstein-priority.png"
+file = "images/art/Einstein.png"
+priority_file = "images/priorities/Einstein-priority.png"
 startx = 1946
 starty = 830
 priority = 2
 
 [[structure]]
 name = "belgischerLoewe"
-file = "images/loewe.png"
-priority_file = "images/loewe-priority.png"
+file = "images/art/loewe.png"
+priority_file = "images/priorities/loewe-priority.png"
 startx = 1282
 starty = 830
 priority = 2
 
 [[structure]]
 name = "neuschwanstein"
-file = "images/neuschwanstein.png"
+file = "images/art/neuschwanstein.png"
 startx = 1813
 starty = 831
 priority = 2
 
 [[structure]]
 name = "rose"
-file = "images/rose.png"
+file = "images/art/rose.png"
 startx = 1878
 starty = 831
 priority = 2
 
 [[structure]]
 name = "invite"
-file = "images/invite.png"
+file = "images/art/invite.png"
 startx = 588
 starty = 846
 priority = 2
 
 [[structure]]
 name = "beethoven"
-file = "images/beethoven.png"
+file = "images/art/beethoven.png"
 startx = 1909
 starty = 830
 priority = 2
 
 [[structure]]
 name = "mittwochsfrosch"
-file = "images/mittwochsfrosch.png"
+file = "images/art/mittwochsfrosch.png"
 startx = 629
 starty = 844
 priority = 2
 
 [[structure]]
 name = "ue-ei"
-file = "images/ue-ei.png"
+file = "images/art/ue-ei.png"
 startx = 1510
 starty = 830
 priority = 2
 
 [[structure]]
 name = "vw"
-file = "images/vw.png"
+file = "images/art/vw.png"
 startx = 1631
 starty = 847
 priority = 2
 
 [[structure]]
 name = "steckdose"
-file = "images/steckdose.png"
+file = "images/art/steckdose.png"
 startx = 1195
 starty = 829
 priority = 2
 
 [[structure]]
 name = "kleeblatt"
-file = "images/kleeblatt.png"
+file = "images/art/kleeblatt.png"
 startx = 1476
 starty = 805
 priority = 2
 
 [[structure]]
 name = "fachwerk"
-file = "images/fachwerk.png"
+file = "images/art/fachwerk.png"
 startx = 1539
 starty = 837
 priority = 2
 
 [[structure]]
 name = "pokal"
-file = "images/pokal_brasilien.png"
+file = "images/art/pokal_brasilien.png"
 startx = 1022
 starty = 589
 priority = 2
 
 [[structure]]
 name = "arte_tv"
-file = "images/arte_tv.png"
+file = "images/art/arte_tv.png"
 startx = 1129
 starty = 825
 priority = 2
@@ -397,63 +397,63 @@ priority = 2
 
 # [[structure]]
 # name = "flagge_sued"
-# file = "images/flagge_sued.png"
+# file = "images/art/flagge_sued.png"
 # startx = 0
 # starty = 1121
 # priority = 1
 
 [[structure]]
 name = "blaubaer"
-file = "images/blaubaer.png"
+file = "images/art/blaubaer.png"
 startx = 318
 starty = 1129
 priority = 2
 
 [[structure]]
 name = "grabstein"
-file = "images/grabstein.png"
+file = "images/art/grabstein.png"
 startx = 1284
 starty = 1123
 priority = 2
 
 [[structure]]
 name = "knolle"
-file = "images/knolle.png"
+file = "images/art/knolle.png"
 startx = 1203
 starty = 831
 priority = 2
 
 [[structure]]
 name = "brezel"
-file = "images/brezel.png"
+file = "images/art/brezel.png"
 startx = 112
 starty = 850
 priority = 2
 
 [[structure]]
 name = "lustigwagen"
-file = "images/lustigwagen.png"
+file = "images/art/lustigwagen.png"
 startx = 904
 starty = 1132
 priority = 2
 
 [[structure]]
 name = "eisbaer"
-file = "images/eisbaer.png"
+file = "images/art/eisbaer.png"
 startx = 194
 starty = 1126
 priority = 2
 
 [[structure]]
 name = "auto"
-file = "images/auto.png"
+file = "images/art/auto.png"
 startx = 775
 starty = 1124
 priority = 2
 
 [[structure]]
 name = "rvnx"
-file = "images/rvnx.png"
+file = "images/art/rvnx.png"
 startx = 744
 starty = 647
 priority = 2
@@ -461,98 +461,98 @@ priority = 2
 
 [[structure]]
 name = "mahluna"
-file = "images/mahluna.png"
+file = "images/art/mahluna.png"
 startx = 1485
 starty = 1172
 priority = 2
 
 [[structure]]
 name = "pogostuck"
-file = "images/pogostuck.png"
+file = "images/art/pogostuck.png"
 startx = 1575
 starty = 832
 priority = 2
 
 [[structure]]
 name = "start"
-file = "images/start.png"
+file = "images/art/start.png"
 startx = 389
 starty = 1971
 priority = 2
 
 [[structure]]
 name = "fernsehturm"
-file = "images/fernsehturm.png"
+file = "images/art/fernsehturm.png"
 startx = 544
 starty = 1106
 priority = 2
 
 [[structure]]
 name = "denana"
-file = "images/denana.png"
+file = "images/art/denana.png"
 startx = 1705
 starty = 1129
 priority = 2
 
 [[structure]]
 name = "gg"
-file = "images/gg.png"
+file = "images/art/gg.png"
 startx = 245
 starty = 1131
 priority = 2
 
 [[structure]]
 name = "fast-food"
-file = "images/fast-food.png"
+file = "images/art/fast-food.png"
 startx = 74
 starty = 1129
 priority = 2
 
 [[structure]]
 name = "haribo"
-file = "images/haribo.png"
+file = "images/art/haribo.png"
 startx = 699
 starty = 1138
 priority = 2
 
 [[structure]]
 name = "elphi"
-file = "images/elphi.png"
+file = "images/art/elphi.png"
 startx = 495
 starty = 1136
 priority = 2
 
 [[structure]]
 name = "dachs"
-file = "images/dachs.png"
+file = "images/art/dachs.png"
 startx = 988
 starty = 1139
 priority = 2 
 
 [[structure]]
 name = "rub"
-file = "images/rub.png"
+file = "images/art/rub.png"
 startx = 1412
 starty = 817
 priority = 2
 
 # [[structure]]
 # name = "raute"
-# file = "images/raute.png"
+# file = "images/art/raute.png"
 # startx = 1567
 # starty = 1136
 # priority = 2
 
 [[structure]]
 name = "bremer_stadtmusikanten"
-file = "images/bremer_stadtmusikanten.png"
+file = "images/art/bremer_stadtmusikanten.png"
 startx = 1525
 starty = 1134
 priority = 2
 
 [[structure]]
 name = "dankpods"
-file = "images/dankpods.png"
+file = "images/art/dankpods.png"
 startx = 1403
 starty = 831
 priority = 2
