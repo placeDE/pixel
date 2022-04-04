@@ -521,3 +521,10 @@ file = "images/elphi.png"
 startx = 495
 starty = 1136
 priority = 2
+
+[[structure]]
+name = "bremer_stadtmusikanten"
+file = "images/bremer_stadtmusikanten.png"
+startx = 1525
+starty = 1134
+priority = 2
