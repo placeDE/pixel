@@ -6,7 +6,7 @@ ignore_colors = [
 # priority: higher number = higher chance of being placed
 
 [versions]
-"browser" = 18
+"browser" = 19
 "python" = 3
 "nodejs" = 1
 
