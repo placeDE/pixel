@@ -12,7 +12,7 @@ if (window.top !== window.self) {
     window.addEventListener('load', () => {
         // Load the image
         const image = document.createElement("img");
-        const undotted = "https://media.discordapp.net/attachments/608000710814203914/960355387377324082/HighlightShadowmap.png?width=810&height=810";
+        const undotted = "https://raw.githubusercontent.com/TheGeka/pixel/main/shadowmap.png";
         image.src = "https://raw.githubusercontent.com/TheGeka/pixel/main/output.png";
 
         image.onload = () => {
