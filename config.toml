@@ -103,7 +103,7 @@ name = "autobahn"
 file = "images/autobahn.png"
 startx = 539
 starty = 838
-priority = 1
+priority = 2
 
 [[structure]]
 name = "verspaetung"
@@ -462,7 +462,7 @@ name = "auto"
 file = "images/auto.png"
 startx = 775
 starty = 1124
-priority = 2
+priority = 1
 
 [[structure]]
 name = "rvnx"
