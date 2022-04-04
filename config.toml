@@ -136,13 +136,13 @@ startx = 666
 starty = 850
 priority = 2
 
-# [[structure]]
-# name = "doenermann"
-# file = "images/doenermann2.png"
-# priority_file = "images/doenermann2-priority.png"
-# startx = 1337
-# starty = 830
-# priority = 2
+[[structure]]
+name = "doenermann"
+file = "images/doenermann2.png"
+priority_file = "images/doenermann2-priority.png"
+startx = 1337
+starty = 830
+priority = 2
 
 [[structure]]
 name = "tgv"
@@ -201,11 +201,11 @@ priority = 2
 # priority = 3
 
 [[structure]]
-name = "wanderer"
-file = "images/wanderer.png"
-priority_file = "images/wanderer-priority.png"
+name = "wanderer-am-meer"
+file = "images/wanderer-am-meer.png"
+priority_file = "images/wanderer-am-meer-priority.png"
 startx = 1979
-starty = 831
+starty = 829
 priority = 2
 
 [[structure]]
@@ -481,6 +481,34 @@ starty = 1971
 priority = 2
 
 [[structure]]
+name = "fernsehturm"
+file = "images/fernsehturm.png"
+startx = 544
+starty = 1106
+priority = 2
+
+[[structure]]
+name = "denana"
+file = "images/denana.png"
+startx = 1705
+starty = 1129
+priority = 2
+
+[[structure]]
+name = "gg"
+file = "images/gg.png"
+startx = 245
+starty = 1131
+priority = 2
+
+[[structure]]
+name = "fast-food"
+file = "images/fast-food.png"
+startx = 74
+starty = 1129
+priority = 2
+
+[[structure]]
 name = "haribo"
 file = "images/haribo.png"
 startx = 699
@@ -499,4 +527,11 @@ name = "rub"
 file = "images/rub.png"
 startx = 1412
 starty = 817
+priority = 2
+
+[[structure]]
+name = "bremer_stadtmusikanten"
+file = "images/bremer_stadtmusikanten.png"
+startx = 1525
+starty = 1134
 priority = 2
