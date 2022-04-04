@@ -712,3 +712,10 @@ file = "images/terz.png"
 startx = 1839
 starty = 1124
 priority = 2
+
+[[structure]]
+name = "cryptic"
+file = "images/cryptic.png"
+startx = 1436
+starty = 1126
+priority = 2
