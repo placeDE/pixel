@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hololive combo
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.5
 // @description  Spread the love
 // @author       oralekin
 // @match        https://hot-potato.reddit.com/embed*
@@ -133,7 +133,7 @@ if (window.top !== window.self) {
 			insertAfter(visCheckbox, topControls);
 		}
 
-		let [hint, plan] = addImage("https://raw.githubusercontent.com/TheGeka/pixel/main/output.png", 0, 0);
+		let [hint, plan] = addImage("https://dev.bloodmoon-network.de/place/output.png", 0, 0);
 
 		function loadRegions() {
 			const hintId = "visHintCheckbox";

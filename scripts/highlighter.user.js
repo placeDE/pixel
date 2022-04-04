@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Highlight Tool
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      0.8
 // @description  try to take over the canvas!
 // @author       oralekin, LittleEndu, ekgame, Wieku, DeadRote, Thank you Osu Server for the Highlight feature - Senpoii
 // @match        https://hot-potato.reddit.com/embed*
@@ -12,8 +12,8 @@ if (window.top !== window.self) {
     window.addEventListener('load', () => {
         // Load the image
         const image = document.createElement("img");
-        const undotted = "https://raw.githubusercontent.com/TheGeka/pixel/main/HighlightShadowmap.png";
-        image.src = "https://raw.githubusercontent.com/TheGeka/pixel/main/output.png";
+        const undotted = "https://dev.bloodmoon-network.de/place/HighlightShadowmap.png";
+        image.src = "https://dev.bloodmoon-network.de/place/output.png";
 
         image.onload = () => {
              image.style = `position: absolute; left: 0; top: 0; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;

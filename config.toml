@@ -190,3 +190,9 @@ name = "watasheep"
 file = "images/watasheep.png"
 startx = 1290
 starty = 1063
+
+[[structure]]
+name = "nanocrown"
+file = "images/nanora.png"
+startx = 1353
+starty = 1111
