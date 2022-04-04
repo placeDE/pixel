@@ -83,6 +83,13 @@ startx = 217
 starty = 833
 priority = 1
 
+[[structure]]
+name = "pootaato"
+file = "images/pootaato.png"
+startx = 115
+starty = 1123
+priority = 2
+
 # [[structure]]
 # name = "saeule"
 # file = "images/saeule.png"
