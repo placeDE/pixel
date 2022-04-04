@@ -64,8 +64,8 @@ priority = 2
 [[structure]]
 name = "omori"
 file = "images/omori.png"
-startx = 1407
-starty = 1137
+startx = 1658
+starty = 1140
 priority = 2
 
 [[structure]]
@@ -708,7 +708,7 @@ priority = 2
 [[structure]]
 name = "grundgesetz"
 file = "images/grundgesetz.png"
-startx = 1670
+startx = 1680
 starty = 1128
 priority = 2
 
