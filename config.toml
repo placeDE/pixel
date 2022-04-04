@@ -174,13 +174,19 @@ startx = 1892
 starty = 697
 
 [[structure]]
-name = "watasheep"
-file = "images/watasheep.png"
-startx = 1290
-starty = 1063
+name = "migo"
+file = "images/migo.png"
+startx = 1972
+starty = 700
 
 [[structure]]
 name = "MarineAhoy"
 file = "images/MarineAhoy.png"
 startx = 1381
 starty = 1044
+
+[[structure]]
+name = "watasheep"
+file = "images/watasheep.png"
+startx = 1290
+starty = 1063
