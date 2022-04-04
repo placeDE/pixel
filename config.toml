@@ -630,6 +630,13 @@ starty = 1140
 priority = 2
 
 [[structure]]
+name = "Krone"
+file = "images/krone.png"
+startx = 767
+starty = 1122
+priority = 2
+
+[[structure]]
 name = "grundgesetz"
 file = "images/grundgesetz.png"
 startx = 1670
