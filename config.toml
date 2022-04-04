@@ -516,6 +516,13 @@ starty = 1129
 priority = 2
 
 [[structure]]
+name = "helm"
+file = "images/helm.png"
+startx = 542
+starty = 827
+priority = 2
+
+[[structure]]
 name = "haribo"
 file = "images/haribo.png"
 startx = 699
