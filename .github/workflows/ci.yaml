@@ -15,6 +15,7 @@ permissions:
 
 jobs:
   generate:
+    name: generate
     runs-on: ubuntu-latest
     container:
       image: python:3
