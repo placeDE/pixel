@@ -186,7 +186,7 @@ startx = 1381
 starty = 1044
 
 [[structure]]
-namme = "mumeiface"
-file = "images/mumeiface.png"
-startx = 757
-starty = 220
+namme = "mumeisuisei"
+file = "images/mumeisuisei.png"
+startx = 220
+starty = 757
