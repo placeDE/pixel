@@ -502,6 +502,13 @@ starty = 1131
 priority = 2
 
 [[structure]]
+name = "sbahn"
+file = "images/sbahn.png"
+startx = 0
+starty = 1121
+priority = 2
+
+[[structure]]
 name = "fast-food"
 file = "images/fast-food.png"
 startx = 88
