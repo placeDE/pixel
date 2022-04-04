@@ -493,3 +493,10 @@ file = "images/elphi.png"
 startx = 495
 starty = 1136
 priority = 2
+
+[[structure]]
+name = "rub"
+file = "images/rub.png"
+startx = 1412
+starty = 817
+priority = 2
