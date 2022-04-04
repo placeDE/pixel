@@ -146,7 +146,7 @@ starty = 1064
 [[structure]]
 name = "Taskbar"
 file = "images/Taskbar.png"
-startx = 1026
+startx = 1027
 starty = 1961
 
 # [[structure]]
