@@ -523,6 +523,13 @@ starty = 1136
 priority = 2
 
 [[structure]]
+name = "dachs"
+file = "images/dachs.png"
+startx = 988
+starty = 1139
+priority = 2 
+
+[[structure]]
 name = "rub"
 file = "images/rub.png"
 startx = 1412
