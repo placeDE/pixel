@@ -484,9 +484,9 @@ startx = 699
 starty = 1138
 priority = 2
 
-# [[structure]]
-# name = "elphi"
-# file = "images/elphi.png"
-# startx = 1699
-# starty = 1136
-# priority = 2
+[[structure]]
+name = "elphi"
+file = "images/elphi.png"
+startx = 495
+starty = 1136
+priority = 2
