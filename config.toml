@@ -33,7 +33,7 @@ starty = 1074
 name = "niji_main"
 file = "images/Nijisanji logo.png"
 startx = 165
-starty = 721
+starty = 715
 
 #[[structure]]
 #name = "vshojo"
@@ -46,6 +46,18 @@ name = "Yagoo"
 file = "images/Yagoo.png"
 startx = 1332
 starty = 902
+
+[[structure]]
+name = "Mascots Near Yagoo"
+file = "images/MascotsNearYagoo.png"
+startx = 1404
+starty = 902
+
+[[structure]]
+name = "Council"
+file = "images/Council.png"
+startx = 233
+starty = 686
 
 [[structure]]
 name = "main area"
@@ -62,8 +74,8 @@ starty = 758
 [[structure]]
 name = "fubuhappy"
 file = "images/FubuHappy.png"
-startx = 1333
-starty = 870
+startx = 1332
+starty = 869
 
 [[structure]]
 name = "shuba"
@@ -87,7 +99,7 @@ starty = 1042
 name = "matsuribibi"
 file = "images/matsuri.png"
 startx = 1423
-starty = 1068
+starty = 1067
 
 [[structure]]
 name = "more-vshojo"
@@ -103,8 +115,8 @@ starty = 986
 
 [[structure]]
 name = "olaaaa"
-file = "images/Olaaaa.png"
-startx = 1332
+file = "images/olaaaa.png"
+startx = 1333
 starty = 1172
 
 [[structure]]
@@ -118,12 +130,6 @@ name = "kaf_final"
 file = "images/kaf_final.png"
 startx = 1419
 starty = 1104
-
-[[structure]]
-name = "starticon.png"
-file = "images/starticon.png"
-startx = 1028
-starty = 1971
 
 [[structure]]
 name = "mouseyhug"
@@ -142,10 +148,3 @@ name = "Taskbar"
 file = "images/Taskbar.png"
 startx = 1028
 starty = 1972
-
-# Add everything above this!!!
-[[structure]]
-name = "template_fixes.png"
-file = "images/template_fixes.png"
-startx = 0
-starty = 0
