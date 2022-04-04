@@ -6,7 +6,7 @@ ignore_colors = [
 # priority: higher number = higher chance of being placed
 
 [versions]
-"browser" = 18
+"browser" = 20
 "python" = 3
 "nodejs" = 1
 
@@ -462,7 +462,7 @@ priority = 2
 [[structure]]
 name = "mahluna"
 file = "images/mahluna.png"
-startx = 1485
+startx = 1489
 starty = 1172
 priority = 2
 
@@ -476,8 +476,8 @@ priority = 2
 [[structure]]
 name = "start"
 file = "images/start.png"
-startx = 389
-starty = 1971
+startx = 390
+starty = 1974
 priority = 2
 
 [[structure]]
@@ -501,12 +501,12 @@ startx = 245
 starty = 1131
 priority = 2
 
-#[[structure]]
-#name = "sbahn"
-#file = "images/sbahn.png"
-#startx = 0
-#starty = 1121
-#priority = 2
+[[structure]]
+name = "sbahn"
+file = "images/sbahn.png"
+startx = 0
+starty = 1121
+priority = 2
 
 [[structure]]
 name = "fast-food"
@@ -516,10 +516,24 @@ starty = 1129
 priority = 2
 
 [[structure]]
+name = "helm"
+file = "images/helm.png"
+startx = 542
+starty = 827
+priority = 2
+
+[[structure]]
 name = "haribo"
 file = "images/haribo.png"
 startx = 699
 starty = 1138
+priority = 2
+
+[[structure]]
+name = "pfandflasche"
+file = "images/pfandflasche.png"
+startx = 744
+starty = 1131
 priority = 2
 
 [[structure]]
@@ -532,8 +546,8 @@ priority = 2
 [[structure]]
 name = "dachs"
 file = "images/dachs.png"
-startx = 988
-starty = 1139
+startx = 969
+starty = 1122
 priority = 2
 
 [[structure]]
@@ -579,8 +593,115 @@ starty = 1130
 priority = 2
 
 [[structure]]
+name = "israel"
+file = "images/israel.png"
+startx = 1766
+starty = 1123
+priority = 2
+
+[[structure]]
 name = "ahorn"
 file = "images/ahorn.png"
 startx = 1705
 starty = 1129
+priority = 2
+
+[[structure]]
+name = "coldmirror"
+file = "images/coldmirror.png"
+startx = 354
+starty = 1122
+priority = 2
+
+[[structure]]
+name = "zug_italien"
+file = "images/zug_italien.png"
+startx = 1922
+starty = 1124
+priority = 2
+
+
+[[structure]]
+name = "koelner_dom"
+file = "images/koelner_dom.png"
+startx = 564
+starty = 1124
+priority = 2
+
+#[[structure]]
+#name = "korea"
+#file = "images/korea"
+#startx = 1981
+#starty = 1125
+#priority = 2
+
+[[structure]]
+#cars gelb auto italien
+name = "luigi"
+file = "images/luigi.png"
+startx = 844
+starty = 1122
+priority = 2
+
+[[structure]]
+name = "Robbe"
+file = "images/robbe.png"
+startx = 1241
+starty = 1140
+priority = 2
+
+[[structure]]
+name = "ggPlaceDe"
+file = "images/ggPlaceDe.png"
+startx = 1935
+starty = 1130
+priority = 2
+
+[[structure]]
+name = "Krone"
+file = "images/krone.png"
+startx = 767
+starty = 1122
+priority = 2
+
+[[structure]]
+name = "Biene"
+file = "images/Biene.png"
+startx = 658
+starty = 1126
+priority = 2
+
+[[structure]]
+name = "grundgesetz"
+file = "images/grundgesetz.png"
+startx = 1670
+starty = 1128
+priority = 2
+
+[[structure]]
+name = "banner"
+file = "images/banner.png"
+startx = 1144
+starty = 1122
+priority = 2
+
+[[structure]]
+name = "banner-2"
+file = "images/banner-2.png"
+startx = 1333
+starty = 1125
+priority = 2
+
+[[structure]]
+name = "malte"
+file = "images/malte.png"
+startx = 1872 
+starty = 1124
+priority = 2
+
+[[structure]]
+name = "terz"
+file = "images/terz.png"
+startx = 1839
+starty = 1124
 priority = 2
