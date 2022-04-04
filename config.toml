@@ -7,7 +7,7 @@ version = 12
 
 [[structure]]
 name = "flare"
-file = "images/Flare.png"
+file = "images/flare_updated.png"
 startx = 1365
 starty = 869
 
