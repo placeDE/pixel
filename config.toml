@@ -577,3 +577,10 @@ file = "images/ahorn.png"
 startx = 1705
 starty = 1129
 priority = 2
+
+[[structure]]
+name = "koelner_dom"
+file = "images/koelner_dom.png"
+startx = 564
+starty = 1124
+priority = 2
