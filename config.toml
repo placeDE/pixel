@@ -557,6 +557,13 @@ starty = 1136
 priority = 2
 
 [[structure]]
+name = "jfour"
+file = "images/jfour_v2.png"
+startx = 401
+starty = 1119
+priority = 2
+
+[[structure]]
 name = "dachs"
 file = "images/dachs.png"
 startx = 969
