@@ -304,7 +304,7 @@ priority = 1
 name = "welle"
 file = "images/welle.png"
 startx = 1921
-starty = 776
+starty = 770
 priority = 2
 
 [[structure]]
