@@ -48,10 +48,10 @@ starty = 721
 #starty = 737
 
 [[structure]]
-name = "yagoo"
-file = "images/Yagoo3.png"
+name = "Yagoo"
+file = "images/Yagoo.png"
 startx = 1332
-starty = 900
+starty = 902
 
 [[structure]]
 name = "main area"
