@@ -584,3 +584,12 @@ file = "images/koelner_dom.png"
 startx = 564
 starty = 1124
 priority = 2
+
+
+[[structure]]
+#cars gelb auto italien
+name = "luigi"
+file = "images/luigi.png"
+startx = 844
+starty = 1122
+priority = 2
