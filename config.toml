@@ -514,10 +514,3 @@ file = "images/elphi.png"
 startx = 495
 starty = 1136
 priority = 2
-
-[[structure]]
-name = "ahornblatt"
-file = "images/ahornblatt.png"
-startx = 1705
-starty = 1129
-priority = 2
