@@ -462,7 +462,7 @@ priority = 2
 [[structure]]
 name = "mahluna"
 file = "images/mahluna.png"
-startx = 1485
+startx = 1489
 starty = 1172
 priority = 2
 
