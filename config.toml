@@ -707,20 +707,6 @@ starty = 1125
 priority = 2
 
 [[structure]]
-name = "malte"
-file = "images/malte.png"
-startx = 1872 
-starty = 1124
-priority = 2
-
-[[structure]]
-name = "terz"
-file = "images/terz.png"
-startx = 1839
-starty = 1124
-priority = 2
-
-[[structure]]
 name = "huge1"
 file = "images/huge1.png"
 startx = 1194
