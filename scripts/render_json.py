@@ -52,7 +52,7 @@ if __name__ == "__main__":
     parser.add_argument("files", nargs="*", type=pathlib.Path, default=["pixel.json"])
     args = parser.parse_args()
 
-    img = Image.new("RGBA", (WIDTH, HEIGHT), "#00000000")
+    img = Image.new("RGBA", (WIDTH+1, HEIGHT+1), "#00000000")
 
     for file in args.files:
         with open(file) as f:
