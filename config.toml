@@ -160,3 +160,9 @@ name = "kobowave"
 file = "images/kobo.png"
 startx = 1892
 starty = 697
+
+[[structure]]
+name = "watasheep"
+file = "images/watasheep.png"
+startx = 1290
+starty = 1063
