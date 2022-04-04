@@ -64,7 +64,7 @@ priority = 2
 [[structure]]
 name = "omori"
 file = "images/omori.png"
-startx = 1407
+startx = 282
 starty = 1137
 priority = 2
 
