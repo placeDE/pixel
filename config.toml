@@ -488,6 +488,13 @@ starty = 1106
 priority = 2
 
 [[structure]]
+name = "denana"
+file = "images/denana.png"
+startx = 1705
+starty = 1129
+priority = 2
+
+[[structure]]
 name = "haribo"
 file = "images/haribo.png"
 startx = 699
