@@ -113,6 +113,11 @@ file = "images/kaf_final.png"
 startx = 1419
 starty = 1104
 
+[[structure]]
+name = "chibi_wall_akari_siro_pikamee"
+file = "images/chibi_wall_akari_siro_pikamee.png"
+startx = 1456
+starty = 1064
 
 
 
