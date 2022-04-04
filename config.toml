@@ -72,6 +72,12 @@ startx = 230
 starty = 782
 
 [[structure]]
+name = "Rushia"
+file = "images/rushia.png"
+startx = 1397
+starty = 1067
+
+[[structure]]
 name = "all_fubu_stuff"
 file = "images/all_fubu_stuff.png"
 startx = 1332
@@ -106,7 +112,6 @@ name = "kaf_final"
 file = "images/kaf_final.png"
 startx = 1419
 starty = 1104
-
 
 
 
