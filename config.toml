@@ -96,7 +96,7 @@ name = "autobahn"
 file = "images/autobahn.png"
 startx = 539
 starty = 838
-priority = 2
+priority = 1
 
 [[structure]]
 name = "verspaetung"
@@ -655,7 +655,7 @@ name = "luigi"
 file = "images/luigi.png"
 startx = 844
 starty = 1122
-priority = 2
+priority = 1
 
 [[structure]]
 name = "Robbe"
