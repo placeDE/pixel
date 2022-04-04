@@ -136,13 +136,13 @@ startx = 666
 starty = 850
 priority = 2
 
-# [[structure]]
-# name = "doenermann"
-# file = "images/doenermann2.png"
-# priority_file = "images/doenermann2-priority.png"
-# startx = 1337
-# starty = 830
-# priority = 2
+[[structure]]
+name = "doenermann"
+file = "images/doenermann2.png"
+priority_file = "images/doenermann2-priority.png"
+startx = 1337
+starty = 830
+priority = 2
 
 [[structure]]
 name = "tgv"
