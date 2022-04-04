@@ -2,10 +2,11 @@
 **1. Branch erstellen**
 
 
-**2. Bild in Images-Ordner hinzufügen mit Dateiname:** 
+**2. Bild in Images/art-Ordner hinzufügen mit Dateiname:** 
 _beispiel.png_ mit transparentem Hintergrund und keinem leeren Rand.\
 Das Bild muss 1:1 das Pixelart sein nur aus den vorgegebenen Farben von Reddit bestehen
-
+Optional für PixelPriorisierung innerhalb eines Bildes, _beispiel.png_ in Grauabstufungen in _images\priorities\_
+als _beispiel-priority.png_ plazieren.
 
 **3. in config.toml neuen Block hinzufügen:** 
 ```toml
@@ -25,14 +26,14 @@ Zwei Skripte in der angegebenen Reihenfolge aus dem Hauptordner des Repos ausfü
 `python .\scripts\generate_json.py`\
 Damit sollte eine _pixel.json_ generiert werden\
 `python .\scripts\render_json.py`\
-Nun wird aus der _pixel.json_ eine _output.png_ und eine _overlay.png_ generiert\
+Nun wird aus der _pixel.json_ eine _output.png_, eine _overlay.png_ und eine _priority.png_ generiert\
 
 WICHTIG: In der _output.png_ gucken, dass die Bilder richtig platziert wurden und evtl. das eigenen Overlay mit der neuen _overlay.png_ testen, ob z. B. bei einer Änderung eines alten Bildes die Koordinaten nicht versetzt zum alten Bild sind.
 
 **5. Änderungen Committen und pushen** 
 Betroffene Dateien sind:\
-_config.toml_, und _images\beispiel.png_\
-NICHT _pixel.json_, _output.png_ oder _overlay.png_ pushen, das verursacht Merge-Conflicts wenn mehrere Personen Bilder hinzufügen und wird von GitHub-Actions im **main** übernommen
+_config.toml_, und _images\art\beispiel.png_\
+NICHT _pixel.json_, _output.png_, _overlay.png_ oder _priority.png_ pushen, das verursacht Merge-Conflicts wenn mehrere Personen Bilder hinzufügen und wird von GitHub-Actions im **main** übernommen
 
 **6. Pull Request zum main stellen und von anderem Dev prüfen lassen** 
 
@@ -43,16 +44,18 @@ NICHT _pixel.json_, _output.png_ oder _overlay.png_ pushen, das verursacht Merge
 **1. Create a branch**
 
 
-**2. Upload image to images folder:** 
+**2. Upload image to images/art folder:** 
 _example.png_ with transparent background and without any border.\
 The image must be in 1:1 pixel scale and only use the colours provided by reddit.
-
+Optional: For Pixel-prioritization within an image put _example.png_ greyscaled as _example-priority.png_
+in the ordner _images\priorities\_ \
 
 **3. Add a new block to config.toml:** 
 ```toml
 [[structure]]
 name = "example"
 file = "images/example.png"
+# optional: priority_file = "images/priorities/example-priority.png"
 startx = 1234 # x-coordinate
 starty = 5678 # y-coordinate
 priority = 2
@@ -69,7 +72,7 @@ This will generate _pixel.json_
 ```bash
 python .\scripts\render_json.py
 ```
-Now _pixel.json_ is used to generate _output.png_ as well as _overlay.png_.
+Now _pixel.json_ is used to generate _output.png_,  _overlay.png_ as well as _priority.png_.
 
 **IMPORTANT:** Check _output.png_ to ensure the images have been placed correctly.
 You can also use _overlay.png_ to check if the overlay is correct.
@@ -78,9 +81,9 @@ You can also use _overlay.png_ to check if the overlay is correct.
 **5. Commit and push your changes** 
 Relevant files are:
 
-_config.toml_, and _images\beispiel.png_
+_config.toml_, _images\art\example.png_ and optional _images\priorities\example-priority.png_ \
 
-**DO NOT** push _pixel.json_, _output.png_ or _overlay.png_.
+**DO NOT** push _pixel.json_, _output.png_, _overlay.png_ or _priority.png_. \
 
 These files will conflict when multiple people are adding files at the same time.
 GitHub-Actions will automatically build the output and overlay once your pull request
