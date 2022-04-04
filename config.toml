@@ -599,6 +599,8 @@ startx = 1922
 starty = 1124
 priority = 2
 
+
+[[structure]]
 name = "koelner_dom"
 file = "images/koelner_dom.png"
 startx = 564
