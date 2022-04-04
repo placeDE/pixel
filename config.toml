@@ -131,7 +131,11 @@ file = "images/starticon.png"
 startx = 1028
 starty = 1971
 
-
+[[structure]]
+name = "mouseyhug"
+file = "images/mouseyhug.png"
+startx = 1333
+starty = 1172
 
 
 
