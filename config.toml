@@ -91,7 +91,7 @@ starty = 1067
 
 [[structure]]
 name = "all_fubu_stuff"
-file = "images/all_fubu_stuff.png"
+file = "images/all_fubu_stuffv2.png"
 startx = 1332
 starty = 1042
 
@@ -149,11 +149,23 @@ file = "images/Taskbar.png"
 startx = 1028
 starty = 1972
 
+# [[structure]]
+#name = "anikimo_suzume_sora"
+#file = "images/ankimoSuzumeSoraPixels.png"
+#startx = 1327
+#starty = 1110
+
 [[structure]]
 name = "Suiohno"
 file = "images/suiohno.png"
 startx = 219
 starty = 716
+
+[[structure]]
+name = "Nekko"
+file = "images/Nekko.png"
+startx = 247
+starty = 794
 
 [[structure]]
 name = "kobowave"
@@ -166,3 +178,9 @@ name = "watasheep"
 file = "images/watasheep.png"
 startx = 1290
 starty = 1063
+
+[[structure]]
+name = "MarineAhoy"
+file = "images/MarineAhoy.png"
+startx = 1381
+starty = 1044
