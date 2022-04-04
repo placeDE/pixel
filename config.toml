@@ -672,8 +672,22 @@ starty = 1128
 priority = 2
 
 [[structure]]
-name = "grundgesetz"
-file = "images/grundgesetz.png"
+name = "malte"
+file = "images/malte.png"
 startx = 1872 
 starty = 1124
+priority = 2
+
+[[structure]]
+name = "banner"
+file = "images/banner.png"
+startx = 1144
+starty = 1122
+priority = 2
+
+[[structure]]
+name = "banner-2"
+file = "images/banner-2.png"
+startx = 1333
+starty = 1125
 priority = 2
