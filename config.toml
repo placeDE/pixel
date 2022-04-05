@@ -16,19 +16,19 @@ ignore_colors = [
 "2" = 5
 "3" = 10
 
-[[structure]]
-name = "flagge-ost"
-file = "images/flagge-ost.png"
-startx = 1332
-starty = 1122
-priority = 1
+# [[structure]]
+# name = "flagge-ost"
+# file = "images/flagge-ost.png"
+# startx = 1332
+# starty = 1122
+# priority = 1
 
-[[structure]]
-name = "flagge_sued_west"
-file = "images/flagge_sued_west.png"
-startx = 0
-starty = 1133
-priority = 1
+# [[structure]]
+# name = "flagge_sued_west"
+# file = "images/flagge_sued_west.png"
+# startx = 0
+# starty = 1133
+# priority = 1
 
 [[structure]]
 name = "rplacede_schriftzug"
