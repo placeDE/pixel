@@ -458,6 +458,13 @@ starty = 1132
 priority = 2
 
 [[structure]]
+name = "lustig"
+file = "images/lustig.png"
+startx = 963
+starty = 1141
+priority = 2
+
+[[structure]]
 name = "eisbaer"
 file = "images/eisbaer.png"
 startx = 194
