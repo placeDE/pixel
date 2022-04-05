@@ -775,3 +775,10 @@ file = "images/pumuckel.png"
 startx = 288
 starty = 1127
 priority = 2
+
+[[structure]]
+name = "NBC"
+file = "images/NBC.png"
+startx = 385
+starty = 1126
+priority = 2
